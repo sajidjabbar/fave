@@ -145,9 +145,6 @@
     <div class="container-fluid">
         <div class="for_product_scroll">
             <div class="single_img">
-                <img src="img/product1.png" class="featured_img img-fluid" alt="">
-            </div>
-            <div class="single_img">
                 <img src="img/product2.png" class="featured_img img-fluid" alt="">
             </div>
             <div class="single_img">
@@ -209,10 +206,11 @@
                 n erat vel rhoncus sollicitudin. Maecenas et suscipit mauris.</p>
             <div class="for_search">
                 <input type="text" class="normal_input" placeholder="Search Any Prodcuts">
-                <button class="btn rounded-0 ml-3">Search</button>
-                <button class="btn rounded-0 ml-2">View All </button>
+                <button class="btn rounded-0 search-btn ml-3">Search</button>
+                <button class="btn rounded-0 search-btn ml-2">View All </button>
             </div>
         </div>
+        <div class="col-md-10 mx-auto">
         <div class="for_slider d-flex" id="for_reciepe_slider">
             <div class="single-recipe">
                 <div class="main_img">
@@ -226,10 +224,30 @@
             </div>
             <div class="single-recipe">
                 <div class="main_img">
-                    <img src="img/best1.png" class="img-fluid" alt="">
+                    <img src="img/best2.png" class="img-fluid" alt="">
+                </div>
+                <div class="best_recipe_text text-center active">
+                    <h6>Garlic Tomato Soup</h6>
+                    <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                    <a href="">Read More <img src="img/arr.png" alt=""></a>
+                </div>
+            </div>
+            <div class="single-recipe">
+                <div class="main_img">
+                    <img src="img/best3.png" class="img-fluid" alt="">
                 </div>
                 <div class="best_recipe_text text-center">
                     <h6>Garlic Stew Dish</h6>
+                    <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                    <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
+                </div>
+            </div>
+            <div class="single-recipe">
+                <div class="main_img">
+                    <img src="img/best2.png" class="img-fluid" alt="">
+                </div>
+                <div class="best_recipe_text text-center">
+                    <h6>Garlic Tomato Soup</h6>
                     <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
                     <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
                 </div>
@@ -254,26 +272,7 @@
                     <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
                 </div>
             </div>
-            <div class="single-recipe">
-                <div class="main_img">
-                    <img src="img/best1.png" class="img-fluid" alt="">
-                </div>
-                <div class="best_recipe_text text-center">
-                    <h6>Garlic Stew Dish</h6>
-                    <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
-                    <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
-                </div>
-            </div>
-            <div class="single-recipe">
-                <div class="main_img">
-                    <img src="img/best1.png" class="img-fluid" alt="">
-                </div>
-                <div class="best_recipe_text text-center">
-                    <h6>Garlic Stew Dish</h6>
-                    <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
-                    <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
-                </div>
-            </div>
+        </div>
         </div>
     </div>
 </section>
@@ -307,7 +306,7 @@
             </div>
             <div class="single_partner">
                 <div class="for_main_img">
-                    <img src="img/partner.png" class="img-fluid" alt="">
+                    <img src="img/slid3.png" class="img-fluid" alt="">
                     <img src="img/partner_logo.png" class="img-partner_logo" alt="">
                 </div>
                 <div class="parter_text">
@@ -321,7 +320,7 @@
             </div>
             <div class="single_partner">
                 <div class="for_main_img">
-                    <img src="img/partner.png" class="img-fluid" alt="">
+                    <img src="img/slid2.png" class="img-fluid" alt="">
                     <img src="img/partner_logo.png" class="img-partner_logo" alt="">
                 </div>
                 <div class="parter_text">
@@ -335,7 +334,7 @@
             </div>
             <div class="single_partner">
                 <div class="for_main_img">
-                    <img src="img/partner.png" class="img-fluid" alt="">
+                    <img src="img/slid3.png" class="img-fluid" alt="">
                     <img src="img/partner_logo.png" class="img-partner_logo" alt="">
                 </div>
                 <div class="parter_text">
@@ -458,7 +457,33 @@
                 </div>
                 <div class="single_actiity">
                     <div class="for_the_img">
-                        <img src="img/recent1.png" class="img-fluid" alt="">
+                        <img src="img/recent2.png" class="img-fluid" alt="">
+                        <p class="category">A G R I C U L T U R E</p>
+                    </div>
+                    <div class="activity_details">
+                        <p class="date">MAY 0 4, 2022</p>
+                        <h6>Vegetables Easy Natural & <br>
+                            <span>Organic Recipes</span>
+                        </h6>
+                        <a href="">Read More <img src="img/right.png" class="pl-3" alt=""></a>
+                    </div>
+                </div>
+                <div class="single_actiity">
+                    <div class="for_the_img">
+                        <img src="img/recent3.png" class="img-fluid" alt="">
+                        <p class="category">A G R I C U L T U R E</p>
+                    </div>
+                    <div class="activity_details">
+                        <p class="date">MAY 0 4, 2022</p>
+                        <h6>Vegetables Easy Natural & <br>
+                            <span>Organic Recipes</span>
+                        </h6>
+                        <a href="">Read More <img src="img/right.png" class="pl-3" alt=""></a>
+                    </div>
+                </div>
+                <div class="single_actiity">
+                    <div class="for_the_img">
+                        <img src="img/recent4.png" class="img-fluid" alt="">
                         <p class="category">A G R I C U L T U R E</p>
                     </div>
                     <div class="activity_details">
@@ -472,6 +497,32 @@
                 <div class="single_actiity">
                     <div class="for_the_img">
                         <img src="img/recent1.png" class="img-fluid" alt="">
+                        <p class="category">A G R I C U L T U R E</p>
+                    </div>
+                    <div class="activity_details">
+                        <p class="date">MAY 0 4, 2022</p>
+                        <h6>Vegetables Easy Natural & <br>
+                            <span>Organic Recipes</span>
+                        </h6>
+                        <a href="">Read More <img src="img/right.png" class="pl-3" alt=""></a>
+                    </div>
+                </div>
+                <div class="single_actiity">
+                    <div class="for_the_img">
+                        <img src="img/recent2.png" class="img-fluid" alt="">
+                        <p class="category">A G R I C U L T U R E</p>
+                    </div>
+                    <div class="activity_details">
+                        <p class="date">MAY 0 4, 2022</p>
+                        <h6>Vegetables Easy Natural & <br>
+                            <span>Organic Recipes</span>
+                        </h6>
+                        <a href="">Read More <img src="img/right.png" class="pl-3" alt=""></a>
+                    </div>
+                </div>
+                <div class="single_actiity">
+                    <div class="for_the_img">
+                        <img src="img/recent3.png" class="img-fluid" alt="">
                         <p class="category">A G R I C U L T U R E</p>
                     </div>
                     <div class="activity_details">

@@ -69,10 +69,12 @@ section.developing_text.farmers p, section.developing_text.farmers h4 {
     /* z-index: 99; */
     background-size: cover;
     background-repeat: no-repeat;
-    top: 12%;
+    top: 20%;
 }
 .custom_container.supplying.mx-auto .for_the_img {
     padding-right: 45px;
+    position: relative;
+    top: 12%;
 }
 @media (max-width: 1200px){
     .custom_container.yellow::after {
