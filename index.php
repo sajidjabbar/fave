@@ -145,25 +145,25 @@
     <div class="container-fluid">
         <div class="for_product_scroll">
             <div class="single_img">
-                <img src="img/product1.png" class="featured_img" alt="">
+                <img src="img/product1.png" class="featured_img img-fluid" alt="">
             </div>
             <div class="single_img">
-                <img src="img/product2.png" class="featured_img" alt="">
+                <img src="img/product2.png" class="featured_img img-fluid" alt="">
             </div>
             <div class="single_img">
-                <img src="img/product1.png" class="featured_img" alt="">
+                <img src="img/product1.png" class="featured_img img-fluid" alt="">
             </div>
             <div class="single_img">
-                <img src="img/product3.png" class="featured_img" alt="">
+                <img src="img/product3.png" class="featured_img img-fluid" alt="">
             </div>
             <div class="single_img">
-                <img src="img/product4.png" class="featured_img" alt="">
+                <img src="img/product4.png" class="featured_img img-fluid" alt="">
             </div>
             <div class="single_img">
-                <img src="img/product2.png" class="featured_img" alt="">
+                <img src="img/product2.png" class="featured_img img-fluid" alt="">
             </div>
             <div class="single_img">
-                <img src="img/product3.png" class="featured_img" alt="">
+                <img src="img/product3.png" class="featured_img img-fluid" alt="">
             </div>
         </div>
     </div>

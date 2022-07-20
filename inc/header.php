@@ -30,11 +30,19 @@
         <div class="navbar-items mr-auto">
             <ul class="all-normal-navs">
                 <li class="normal-nav-items"><a href="index.php">HOME</a></li>
-                <li class="normal-nav-items"><a href="news.php">ABOUT US</a></li>
-                <li class="normal-nav-items"><a href="most-wanted.php">WHY US</a></li>
-                <li class="normal-nav-items"><a href="inmate.php">PRODUCTS</a></li>
-                <li class="normal-nav-items"><a href="career.php">OUR COMMUNITY</a></li>
-                <li class="normal-nav-items"><a href="about.php">CONTACT US</a></li>
+                <li class="normal-nav-items"><a href="about.php">ABOUT US</a></li>
+                <li class="normal-nav-items">
+                    <div class="dropdown ">
+                        <a href="#" class="" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">WHY US</a>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                            <a class="dropdown-item" href="services.php">Our Services</a>
+                            <a class="dropdown-item" href="our-product.php">Our Products</a>
+                        </div>
+                    </div>
+                </li>
+                <li class="normal-nav-items"><a href="product.php">PRODUCTS</a></li>
+                <li class="normal-nav-items"><a href="our-community.php">OUR COMMUNITY</a></li>
+                <li class="normal-nav-items"><a href="contact.php">CONTACT US</a></li>
                 <li class="normal-nav-items ml-auto social_icons social_icons_first">
                     <a href=""><img src="img/fb.png" alt=""></a>
                 </li>
@@ -78,13 +86,13 @@
             </svg>
         </div>
         <ul class="mobile-nav navbar-nav">
-            <li class="nav-link"><a class="text-black" href="index.php">Home</a></li>
-            <li class="nav-link"><a class="text-black" href="news.php">News Updates</a></li>
-            <li class="nav-link"><a class="text-black" href="most-wanted.php">Most Wanted</a></li>
-            <li class="nav-link"><a class="text-black" href="">Inmate Services</a></li>
-            <li class="nav-link"><a class="text-black" href="career.php">Career</a></li>
-            <li class="nav-link"><a class="text-black" href="about.php">About Us</a></li>
-            <li class="nav-link"><a class="text-black" href="contactus.php">Report a crime</a></li>
+            <li class="normal-nav-items nav-link"><a href="index.php">HOME</a></li>
+            <li class="normal-nav-items nav-link"><a href="about.php">ABOUT US</a></li>
+            <li class="normal-nav-items nav-link"><a href="">WHY US</a></li>
+            <li class="normal-nav-items nav-link"><a href="product.php">PRODUCTS</a></li>
+            <li class="normal-nav-items nav-link"><a href="our-community.php">OUR COMMUNITY</a></li>
+            <li class="normal-nav-items nav-link"><a href="contact.php">CONTACT US</a></li>
+
         </ul>
     </div>
 </header>

@@ -1,0 +1,110 @@
+section.sub_section {
+    background-image: url(../img/custom_banner.png);
+    background-size: cover;
+    height: 98px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+a.read_more:hover svg{
+    transition: 0.6s all;
+    transform: translateX(5px);
+}
+section.sub_section .sub_banner_text h5 {
+    color: #FFF;
+    font-size: 23px;
+    margin-bottom: 3px;
+}
+section.sub_section .sub_banner_text p span {
+    padding-right: 6px;
+    padding-left: 2px;
+}
+section.sub_section .sub_banner_text p span,section.sub_section .sub_banner_text p a {
+    color: #FFF;
+    font-family: "Poppins-SemiBold";
+    font-size: 14px;
+}
+section.sub_section .sub_banner_text p {
+    margin-bottom: 0;
+}
+
+/* Product CSS Start */
+.product_start .single-recipe {
+    margin-right: unset !important;
+}
+.product_start {
+    width: 77%;
+    padding-bottom: 54px;
+}
+section.product_section .top_section.text-center .icon_img {
+    margin-top: 35px;
+    margin-bottom: 19px;
+}
+
+section.product_section .top_section.text-center h4 {
+    margin-bottom: 39px;
+}
+.best_recipe_text.text-center {
+    position: relative;
+    top: -53px;
+    background: #FFFFFF;
+    width: 80%;
+    margin: 0px auto;
+    margin-bottom: -12px;
+    padding: 36px 0px;
+    box-shadow: -1px -3px 11px #e7cfcf;
+}
+.best_recipe_text.text-center.active {
+    background: #47A942;
+}
+.best_recipe_text.text-center.active a {
+    color: #FFFFFF;
+
+}
+.best_recipe_text.text-center.active p {
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+.best_recipe_text.text-center.active h6 {
+    color: #FFFFFF;
+
+}
+.best_recipe_text.text-center a svg {
+    position: relative;
+    top: 2px;
+    left: 6px;
+}
+@media (max-width: 1200px){
+    .product_start{
+        width: 88%;
+    }
+}
+@media (max-width: 991px){
+    .product_start{
+        width: 98%;
+    }
+}
+
+@media (max-width: 576px){
+    .single-reicepe .main_img{
+        text-align: center;
+    }
+    .single-reicepe .main_img img{
+        width: 100%;
+    }
+    .best_recipe_text.text-center {
+        position: unset;
+        top: unset;
+        width: 100%;
+        margin-bottom: 35px;
+    }
+}

@@ -1,0 +1,101 @@
+section.product_image_start {
+    padding-top: 92px;
+    padding-bottom: 65px;
+}
+.custom_container.mx-auto {
+    width: 84%;
+}
+.custom_container .contact_left_side {
+    background: #777575;
+    padding: 61px 50px 104px 63px;
+}
+.custom_container .contact_left_side .top_text h4 {
+    color: #FFFFFF;
+    margin-top: 16px;
+    margin-bottom: 29px;
+}
+
+.custom_container .contact_left_side .top_text p {
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+.contact_left_side .contact_on .single_contact_item {
+    display: flex;
+    align-items: center;
+    gap: 35px;
+    margin-top: 72px;
+}
+.contact_left_side .contact_on .single_contact_item .text span a {
+    font-family: "Poppins-Regular";
+    color: #FFF;
+    font-size: 24px;
+}
+.contact_left_side .contact_on .single_contact_item .text span {
+    color: #FFF;
+    font-size: 24px;
+    font-family: "Poppins-Bold";
+}
+.contact_left_side .contact_on .single_contact_item .text p {
+    margin-bottom: 0px;
+    font-size: 13px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+.contact_on {
+    padding-top: 12px;
+}
+.top_text.form_text h4 {
+    margin-top: 13px;
+    margin-bottom: 14px;
+}
+.form_start {
+    margin-top: 50px;
+}
+.complete_form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    background: #FBFAF7;
+    padding-left: 11%;
+    padding-right: 19%;
+}
+
+@media (max-width: 1200px){
+    .custom_container .contact_left_side {
+        background: #777575;
+        padding: 61px 36px 104px 32px;
+    }
+    .custom_container.mx-auto {
+        width: 96%;
+    }
+}
+@media (max-width: 991px){
+    .complete_form {
+        padding-top: 61px;
+        padding-bottom: 44px;
+    }
+}
+@media (max-width: 576px){
+    .custom_container .contact_left_side {
+        background: #777575;
+        padding: 61px 16px 104px 16px;
+    }
+    .contact_left_side .contact_on .single_contact_item {
+        gap: 22px;
+        margin-top: 38px;
+    }
+    .contact_left_side .contact_on .single_contact_item .text span a {
+        font-size: 18px;
+    }
+    .contact_left_side .contact_on .single_contact_item .text span {
+        font-size: 18px;
+    }
+    .contact_left_side .contact_on .single_contact_item figure img {
+        max-width: 45px;
+    }
+    .complete_form {
+        padding-left: 6%;
+        padding-right: 6%;
+    }
+}

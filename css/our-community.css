@@ -1,0 +1,131 @@
+section.top_pics_section {
+    padding-top: 107px;
+}
+section.top_pics_section .first_part .text_start h4, section.top_pics_section .first_part h4 span {
+    font-size: 31px;
+}
+section.top_pics_section .first_part h4 {
+    margin-top: 19px;
+    margin-bottom: 19px;
+}
+section.top_pics_section .first_part p {
+    font-size: 15px;
+}
+section.top_pics_section .second_part .double_images {
+    display: flex;
+    gap: 13px;
+    margin-top: 13px;
+}
+.point_text .points p {
+    display: flex;
+    line-height: 22px;
+    font-size: 14px;
+    color: #000000;
+    margin-top: 9px;
+    margin-bottom: -2px;
+}
+.point_text .points p::before {
+    content: "";
+    width: 25px;
+    display: block;
+    height: 19px;
+    background-image: url(../img/tick.png);
+    background-repeat: no-repeat;
+    margin-top: 4px;
+}
+/* === marketing start here === */
+section.marketing_compaign {
+    background-image: url(../img/market.png);
+    background-size: cover;
+    height: 396px;
+    margin-top: 54px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+.white_porints .points p {
+    display: flex;
+    line-height: 22px;
+    font-size: 14px;
+    color: #FFF;
+    margin-top: 9px;
+    margin-bottom: 15px;
+}
+.white_porints .points p::before {
+    content: "";
+    width: 25px;
+    display: block;
+    height: 19px;
+    background-image: url(../img/tickwhite.png);
+    background-repeat: no-repeat;
+    margin-top: 4px;
+}
+section.marketing_compaign .test_start h4 {
+    color: #FFF;
+    margin-top: 18px;
+}
+
+section.marketing_compaign .test_start .white_porints {
+    margin-top: 36px;
+}
+/* end here */
+/* social media start */
+section.social_media_section {
+    padding: 71px 0px 66px;
+}
+.for_custom_slider {
+    width: 95%;
+    margin-left: auto;
+}
+.for_custom_slider  div#for_social_slider figure {
+    margin-left: 15px;
+    max-width: 387px;
+}
+section.social_media_section .top_text.text-center h4 {
+    margin-top: 12px;
+    margin-bottom: 40px;
+}
+.for_custom_slider  div#for_social_slider .slick-arrow {
+    display: none !important;
+}
+.for_custom_slider  div#for_social_slider figure {
+    margin-left: 15px;
+}
+@media (max-width: 1200px) {
+    section.top_pics_section .first_part .fo_img.pr-5 {
+        padding-right: 0px !important;
+    }
+    section.top_pics_section .first_part .text_start h4, section.top_pics_section .first_part h4 span{
+        font-size: 27px;
+    }
+    section.top_pics_section .first_part p{
+        font-size: 14px;
+    }
+    .point_text .points p{
+        font-size: 12px;
+    }
+}
+@media (max-width: 768px){
+    section.marketing_compaign {
+        background-image: unset;
+        height: unset;
+        margin-top: 54px;
+        background-repeat: no-repeat;
+        padding: 47px 0px;
+        background-position: center;
+        display: flex;
+        color: #FFF;
+        align-items: center;
+        background-color: #686868e3;
+    }
+    section.top_pics_section {
+        padding-top: 79px;
+    }
+    section.top_pics_section {
+        padding-top: 58px;
+    }
+    .for_custom_slider {
+        width: 100%;
+    }
+}

@@ -23,9 +23,9 @@
                         <div class="footer_content">
                             <h6>Explore</h6>
                             <ul class="all_links">
-                                <li><a href="">Home</a></li>
-                                <li><a href="">About Us</a></li>
-                                <li><a href="">Services</a></li>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="about.php">About Us</a></li>
+                                <li><a href="services.php">Services</a></li>
                                 <li><a href="">Events</a></li>
                             </ul>
                         </div>
@@ -59,11 +59,11 @@
                 </div>
                 <div class="copywrite_line">
                     <p>© FAVAGRICULTURE.COM 2022. All rights reserved.</p>
-                    <div class="terms_etc">
+                    <!-- <div class="terms_etc">
                         <p>Cookie Policy</p>
                         <p>Privacy Policy</p>
                         <p>Terms & Conditions</p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

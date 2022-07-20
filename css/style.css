@@ -148,7 +148,49 @@ figure {
 li {
     list-style: none;
 }
-
+/* Custom Banner Start Here */
+section.sub_section {
+    background-image: url(../img/custom_banner.png);
+    background-size: cover;
+    height: 98px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+section.sub_section .sub_banner_text h5 {
+    color: #FFF;
+    font-size: 23px;
+    margin-bottom: 3px;
+}
+section.sub_section .sub_banner_text p span {
+    padding-right: 6px;
+    padding-left: 2px;
+}
+section.sub_section .sub_banner_text p span,section.sub_section .sub_banner_text p a {
+    color: #FFF;
+    font-family: "Poppins-SemiBold";
+    font-size: 14px;
+}
+section.sub_section .sub_banner_text p {
+    margin-bottom: 0;
+}
+li.normal-nav-items .dropdown.show  .dropdown-menu.show a {
+    color: #000;
+    padding: 2px 8px;
+}
+li.normal-nav-items .dropdown.show  .dropdown-menu.show a {
+    color: #000;
+    padding: 2px 8px;
+    font-size: 11px;
+}
+.dropdown-menu{
+    min-width: unset;
+}
+/* Custom Banner End Here */
+/* Universal Styling End Here */
 /* Prelaoder */
 #preloader {
     position: fixed;
@@ -203,14 +245,20 @@ li {
     position: fixed;
     background: #ffffffc2;
     top: 0;
+    overflow-y: scroll;
     z-index: 9;
     right: 0;
     padding: 30px 10px 0px 10px;
     transition: 0.7s;
     transform: translateX(100%);
     box-shadow: 0px 0px 7px #ddd;
+    display: none;
 }
-
+@media (max-width: 991px){
+    .mobile-header {
+        display: initial;
+    }
+}
 li.nav-link a {
     color: #000;
 }
@@ -572,7 +620,7 @@ section.experience .images .main_image img {
 
 section.experience .images .below_img {
     position: relative;
-    top: -126px;
+    top: -134px;
 }
 
 section.experience .images .below_img img {
@@ -755,7 +803,12 @@ section.experience .text_start {
         max-width: 9px;
     }
 }
-
+li.normal-nav-items.nav-link{
+    margin-top: 25px;
+}
+li.normal-nav-items.nav-link a {
+    color: #000;
+}
 /* ==== end here ==== */
 /* ==== custom care start ===== */
 section.customer_care {
@@ -796,7 +849,7 @@ section.featured_start p {
 }
 
 img.featured_img {
-    max-width: 347px;
+    max-width: 313px;
 }
 
 .for_product_scroll {

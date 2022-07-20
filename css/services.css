@@ -1,0 +1,80 @@
+
+/* ---===== TSCHNOLOGY  START HERE ======---- */
+section.benefite_section {
+    padding-top: 77px;
+}
+.benefit_images .sub_images {
+    display: flex;
+    gap: 9px;
+    margin-top: 12px;
+}
+section.product_image_start {
+    padding-top: 76px;
+}
+.product_start {
+    width: 88%;
+    padding-bottom: 24px;
+}
+.benefite_text {
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+.benefite_text .top_text h4 {
+    margin-top: 15px;
+}
+.benefite_text .top_text p.main_paragraph {
+    font-size: 14px;
+    color: #000000;
+    margin-top: 34px;
+    margin-bottom: 29px;
+}
+section.marketing_section {
+    padding-top: 78px;
+}
+.marketing_top_text.text-center h4 {
+    margin-top: 11px;
+    margin-bottom: 19px;
+}
+.marketing_img {
+    margin-top: 45px;
+    margin-bottom: 22px;
+}
+h4.marketing_top_text.text-center p {
+    color: #000;
+}
+@media (max-width: 1200px){
+    .product_start{
+        width: 93%;
+    }
+}
+@media (max-width: 991px){
+    .product_start{
+        width: 98%;
+    }
+}
+
+@media (max-width: 768px){
+    .product_start{
+        margin-bottom: 12px;
+    }
+    section.product_image_start {
+        padding-top: 25px;
+    }
+    .benefite_text .top_text p.main_paragraph {
+        margin-top: 19px;
+        margin-bottom: unset;
+    }
+    section.marketing_section {
+        padding-top: 16px;
+    }
+    section.benefite_section{
+        padding-top: 12px;
+    }
+    .benefite_text {
+        margin-top: 23px;
+    }
+    .marketing_img {
+        margin-top: 26px;
+    }
+}

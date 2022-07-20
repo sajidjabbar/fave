@@ -1,0 +1,83 @@
+section.product_image_start {
+    padding-top: 76px;
+}
+.product_start {
+    width: 88%;
+    padding-bottom: 24px;
+}
+/* ===== TEXT CSS START ====== */
+section.benefite_section {
+    padding-top: 54px;
+    padding-bottom: 57px;
+}
+.benefite_text {
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+.product_start .detail_text .text_wraper {
+    margin-top: 42px;
+}
+.product_start .detail_text .text_wraper h4 {
+    margin-bottom: 19px;
+}
+.product_start .detail_text .text_wraper p {
+    font-size: 13px;
+}
+.benefite_text .top_text p.main_paragraph {
+    font-size: 13px;
+    color: #000000;
+    margin-top: 34px;
+    margin-bottom: 29px;
+}
+.benefite_text .top_text .points p {
+    display: flex;
+    line-height: 23px;
+    font-size: 13px;
+    color: #000000;
+    margin-top: 19px;
+}
+.benefite_text .top_text .points p::before {
+    content: "";
+    width: 61px;
+    display: block;
+    height: 19px;
+    background-image: url(../img/tick.png);
+    background-repeat: no-repeat;
+}
+/* ===== TEXT CSS END ====== */
+/* ---===== BENEFITS START HERE ======---- */
+.benefit_images .sub_images {
+    display: flex;
+    gap: 9px;
+    margin-top: 12px;
+}
+
+@media (max-width: 1200px){
+    .product_start{
+        width: 93%;
+    }
+}
+@media (max-width: 991px){
+    .product_start{
+        width: 98%;
+    }
+}
+
+@media (max-width: 768px){
+    .product_start{
+        margin-bottom: 12px;
+    }
+    section.product_image_start {
+        padding-top: 25px;
+    }
+    .product_start .detail_text .text_wraper{
+        margin-top: 12px;
+    }
+    section.benefite_section{
+        padding-top: 12px;
+    }
+    .benefite_text {
+        margin-top: 23px;
+    }
+}

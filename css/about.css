@@ -1,0 +1,103 @@
+.responsibility_text {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding-left: 76px;
+    background-size: cover;
+    background-image: url(../img/re_back.png);
+    background-repeat: no-repeat;
+    padding-top: 61px;
+    padding-bottom: 46px;
+    padding-right: 20px;
+}
+
+.for_video_play_img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: unset;
+    height: 100%;
+}
+section.responsibilities {
+    margin-top: 80px;
+}
+.fo_img.pl-5{
+    padding-left: 0px !important;
+}
+section.marketing_compaign .test_start .white_porints {
+    margin-top: 20px;
+}
+section.marketing_compaign p {
+    color: #FFF;
+}
+section.marketing_compaign .test_start p.main_para {
+    margin-top: 32px;
+}
+section.marketing_compaign .test_start .white_porints .inline_points {
+    display: flex;
+    justify-content: space-between;
+}
+.white_porints .points p{
+    font-size: 12px;
+}
+.for_partners_logos {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 31px;
+}
+section.our_partners {
+    padding: 46px 0PX;
+}
+@media (max-width: 991px) {
+    .responsibility_text {
+        padding-left: 36px;
+        padding-top: 61px;
+        padding-bottom: 46px;
+        padding-right: 20px;
+    }
+    section.top_pics_section .second_part .double_images{
+        display: unset;
+    }
+    section.marketing_compaign .test_start .white_porints .inline_points {
+        display: unset;
+    }
+
+    .responsibility_text .icons_text {
+        gap: 5%;
+    }
+    section.marketing_compaign  .for_img {
+        margin-top: 101px;
+    }
+
+    section.marketing_compaign .test_start p.main_para {
+        margin-top: 11px;
+    }
+    section.top_pics_section .second_part .double_images img{
+        margin-top: 12px;
+    }
+}
+@media (max-width: 768px){
+    section.marketing_compaign  .for_img {
+        margin-top: unset;
+    }
+    section.marketing_compaign .test_start p.main_para {
+        margin-top: 31px;
+    }
+    section.top_pics_section .second_part .double_images{
+        display: flex;
+    }
+}
+@media (max-width: 576px) {
+    .responsibility_text .single_icon {
+        min-width: 41%;
+    }
+
+    .responsibility_text .icons_text {
+        gap: 5%;
+        flex-wrap: wrap;
+    }
+    .responsibility_text .single_icon{
+        margin-top: 45px;
+    }
+}
