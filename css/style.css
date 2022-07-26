@@ -1012,7 +1012,7 @@ section.responsibilities {
     padding-left: 54px;
     background-size: cover;
     background-image: url(../img/re_back.png);
-    padding-top: 50px;
+    padding-top: 66px;
     background-repeat: no-repeat;
     padding-bottom: 52px;
 } 
@@ -1380,11 +1380,11 @@ ul.all_links .for_input button {
 } 
 
 .video_section .for_the_video {
-    width: 46.5%;
+    width: 45%;
 }
 
 .video_section .for_the_resp.px-0 {
-    width: 53.5%;
+    width: 54%;
 }
 @media (max-width: 1200px) {
     .video_section.px-0.mx-0 {
