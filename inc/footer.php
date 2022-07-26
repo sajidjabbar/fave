@@ -34,8 +34,8 @@
                         <div class="footer_content">
                             <h6>Our Community</h6>
                             <ul class="all_links">
-                                <li><a href="">Healthy and Beauty</a></li>
-                                <li><a href="">Our Marketing Campaigns</a></li>
+                                <li><a href="health-beauty-detail.php">Healthy and Beauty</a></li>
+                                <li><a href="market-campaigns.php">Our Marketing Campaigns</a></li>
                             </ul>
                         </div>
                     </div>

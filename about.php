@@ -30,7 +30,7 @@
                         <div class="icon_img">
                             <img src="img/taj.png" alt="">
                         </div>
-                        <h4>COMPANY<span>HISTORY</span></h4>
+                        <h4>COMPANY <span>HISTORY</span></h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                             quis nostrud exercitation ullamco laboris nisi ut aliquip. Duis aute irure dolor in
@@ -131,7 +131,7 @@
                         <div class="icon_img">
                             <img src="img/taj.png" alt="">
                         </div>
-                        <h4>COMPANY<span>HISTORY</span></h4>
+                        <h4>SOCIAL <span>RESPONSIBILITY</span></h4>
                         <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                             quis nostrud exercitation ullamco laboris nisi ut aliquip. Duis aute irure dolor in
@@ -181,7 +181,7 @@
                     <div class="for_icon">
                         <img src="img/taj2.png" alt="">
                     </div>
-                    <h4>Our Marketing Campaign</h4>
+                    <h4>our mission statement</h4>
                     <p class="main_para">
                         uspendisse mollis ante imperdiet, dictum sapien eu, suscipit turpis. Curabitur enim purus,
                         dignissim non tempor quis, tempus id urna. Quisque egestas quam nulla, quis rutrum metus lacinia
@@ -217,11 +217,11 @@
             <div class="icon_img">
                 <img src="img/taj.png" alt="">
             </div>
-            <h4>OUR <span>Partners</span></h4>
+            <h4 class="mt-2">OUR <span>Partners</span></h4>
         </div>
         <div class="row">
             <div class="col-md-10 mx-auto">
-                <div class="for_partners_logos">
+                <div class="for_partners_logos ml-5">
                     <h4>Logo</h4>
                     <h4>Logo</h4>
                     <h4>Logo</h4>
@@ -232,3 +232,4 @@
         </div>
     </div>
 </section>
+<?php include 'inc/footer.php' ?>

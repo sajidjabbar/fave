@@ -38,7 +38,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 pl-4">
-                    <div class="benefite_text">
+                    <div class="benefite_text ml-2">
                         <div class="top_text">
                             <div class="top_icon">
                                 <img src="img/taj.png" alt="">
@@ -70,7 +70,7 @@
                 <div class="icon_img">
                     <img src="img/taj.png" alt="">
                 </div>
-                <h4>Marketing</h4>
+                <h4><span>Marketing</span></h4>
                 <p>We help our supermarket chain customers prepare various types of marketing campaign, educating end-users.</p>
             </div>
             <div class="marketing_img">

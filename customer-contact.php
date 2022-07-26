@@ -2,15 +2,16 @@
 <?php include 'inc/app.php' ?>
 <!-- CSS LInk Here -->
 <link rel="stylesheet" href="css/contact.css">
+<link rel="stylesheet" href="css/customer-contact.css">
 <!-- HEader END Here -->
 <!-- Custom Banner Start Herer-->
 <section class="sub_section">
     <div class="sub_banner_text">
-        <h5>contact us</h5>
+        <h5>customer contact</h5>
         <p class="breadcrumbs">
             <a href="">home </a>
             <span>></span>
-            <a href="">contact us</a>
+            <a href="">customer contact</a>
         </p>
     </div>
 </section>

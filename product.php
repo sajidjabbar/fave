@@ -19,12 +19,12 @@
             <div class="icon_img">
                 <img src="img/taj.png" alt="">
             </div>
-            <h4>OUR <span>Products</span></h4>
+            <h4>OUR <span>PRODUCTS</span></h4>
         </div>
         <div class="product_start mx-auto">
             <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-2">
-                    <a href="">
+                    <a href="product-details.php">
                         <div class="single-reicepe">
                             <div class="main_img">
                                 <img src="img/p1.png" class="img-fluid" alt="">

@@ -9,6 +9,15 @@ section.sub_section {
     justify-content: center;
     align-items: center;
 }
+.best_recipe_text.text-center {
+    position: relative;
+    top: -60px;
+    background: #FFFFFF;
+    width: 83%;
+    margin: 0px auto;
+    box-shadow: 0px -3px 3px #e7cfcf;
+    padding: 36px 0px;
+}
 a{
     text-decoration: none;
 }
@@ -21,7 +30,7 @@ a.read_more:hover svg{
 }
 section.sub_section .sub_banner_text h5 {
     color: #FFF;
-    font-size: 23px;
+    font-size: 21px;
     margin-bottom: 3px;
 }
 section.sub_section .sub_banner_text p span {
@@ -31,7 +40,8 @@ section.sub_section .sub_banner_text p span {
 section.sub_section .sub_banner_text p span,section.sub_section .sub_banner_text p a {
     color: #FFF;
     font-family: "Poppins-SemiBold";
-    font-size: 14px;
+    font-size: 11px;
+    text-transform: uppercase;
 }
 section.sub_section .sub_banner_text p {
     margin-bottom: 0;
@@ -43,7 +53,7 @@ section.sub_section .sub_banner_text p {
 }
 .product_start {
     width: 77%;
-    padding-bottom: 54px;
+    padding-bottom: 37px;
 }
 section.product_section .top_section.text-center .icon_img {
     margin-top: 35px;
@@ -55,9 +65,9 @@ section.product_section .top_section.text-center h4 {
 }
 .best_recipe_text.text-center {
     position: relative;
-    top: -53px;
+    top: -44px;
     background: #FFFFFF;
-    width: 80%;
+    width: 85%;
     margin: 0px auto;
     margin-bottom: -12px;
     padding: 36px 0px;

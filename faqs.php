@@ -19,7 +19,7 @@
 <section class="faqs_section">
     <div class="container">
         <div class="row">
-            <div class="col-md-8 mx-auto">
+            <div class="col-md-7 px-0 mx-auto">
                 <div class="all_accordians">
                     <div class="single_accordian">
                         <div class="accordiam_controller">

@@ -33,7 +33,8 @@
                 <li class="normal-nav-items"><a href="about.php">ABOUT US</a></li>
                 <li class="normal-nav-items">
                     <div class="dropdown ">
-                        <a href="#" class="" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">WHY US</a>
+                        <a href="#" class="" role="button" id="dropdownMenuLink" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">WHY US</a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                             <a class="dropdown-item" href="services.php">Our Services</a>
                             <a class="dropdown-item" href="our-product.php">Our Products</a>
@@ -41,8 +42,28 @@
                     </div>
                 </li>
                 <li class="normal-nav-items"><a href="product.php">PRODUCTS</a></li>
-                <li class="normal-nav-items"><a href="our-community.php">OUR COMMUNITY</a></li>
-                <li class="normal-nav-items"><a href="contact.php">CONTACT US</a></li>
+                <li class="normal-nav-items"><a href="recipes.php">RECIPES</a></li>
+                <li class="normal-nav-items">
+                    <div class="dropdown ">
+                        <a href="#" class="" role="button" id="dropdownMenuLink" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">OUR COMMUNITY</a>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                            <a class="dropdown-item" href="health-beauty.php">Health and Beauty</a>
+                            <a class="dropdown-item" href="market-campaigns.php">Our Marketing Campigns</a>
+                        </div>
+                    </div>
+                </li>
+                <li class="normal-nav-items">
+                    <div class="dropdown ">
+                        <a href="#" class="" role="button" id="dropdownMenuLink" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">CONTACT US</a>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                            <a class="dropdown-item" href="contact.php">Contact Us Now</a>
+                            <a class="dropdown-item" href="customer-contact.php">Our customer contact</a>
+                            <a class="dropdown-item" href="faqs.php">faqs</a>
+                        </div>
+                    </div>
+                </li>
                 <li class="normal-nav-items ml-auto social_icons social_icons_first">
                     <a href=""><img src="img/fb.png" alt=""></a>
                 </li>
@@ -81,17 +102,36 @@
 
     <div class="mobile-header navbar-dark">
         <div class="cancel">
-            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
-                <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z" />
+            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-x"
+                viewBox="0 0 16 16">
+                <path
+                    d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z" />
             </svg>
         </div>
         <ul class="mobile-nav navbar-nav">
             <li class="normal-nav-items nav-link"><a href="index.php">HOME</a></li>
             <li class="normal-nav-items nav-link"><a href="about.php">ABOUT US</a></li>
-            <li class="normal-nav-items nav-link"><a href="">WHY US</a></li>
+            <li class="normal-nav-items nav-link"><a href="">WHY US</a>
+                <ul class="pl-3">
+                    <li class="normal-nav-items nav-link"><a href="services.php">Our Services</a></li>
+                    <li class="normal-nav-items nav-link"><a href="our-product.php">Our Products</a></li>
+                </ul>
+            </li>
             <li class="normal-nav-items nav-link"><a href="product.php">PRODUCTS</a></li>
-            <li class="normal-nav-items nav-link"><a href="our-community.php">OUR COMMUNITY</a></li>
-            <li class="normal-nav-items nav-link"><a href="contact.php">CONTACT US</a></li>
+            <li class="normal-nav-items nav-link"><a href="our-community.php">OUR COMMUNITY</a>
+                <ul class="pl-3">
+                    <li class="normal-nav-items nav-link"><a href="health-beauty.php">Health and Beauty</a></li>
+                    <li class="normal-nav-items nav-link mt-2"><a href="market-campaigns.php">Our Marketing Campigns</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="normal-nav-items nav-link"><a href="contact.php">CONTACT US</a>
+                <ul class="pl-3">
+                    <li class="normal-nav-items"><a href="contact.php">Contact Us Now</a></li>
+                    <li class="normal-nav-items"><a href="customer-contact.php">Our customer contact</a></li>
+                    <li class="normal-nav-items"><a href="faqs.php">faqs</a></li>
+                </ul>
+            </li>
 
         </ul>
     </div>

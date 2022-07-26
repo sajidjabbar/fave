@@ -43,7 +43,7 @@
                     <div class="small_img">
                         <img src="img/taj.png" alt="">
                     </div>
-                    <div class="text_box_experience mt-5">
+                    <div class="text_box_experience mt-3 p-1">
                         <h4>
                             We Have 25 Years of Experience <br>
                             in Agriculture & <span>Organic Product</span>
@@ -206,7 +206,7 @@
                 n erat vel rhoncus sollicitudin. Maecenas et suscipit mauris.</p>
             <div class="for_search">
                 <input type="text" class="normal_input" placeholder="Search Any Prodcuts">
-                <button class="btn rounded-0 search-btn ml-3">Search</button>
+                <button class="btn rounded-0 search-btn ml-2 first_btn">Search</button>
                 <button class="btn rounded-0 search-btn ml-2">View All </button>
             </div>
         </div>
@@ -283,13 +283,60 @@
             <div class="for_icon">
                 <img src="img/taj.png" alt="">
             </div>
-            <h2>Our Best <span> Recipes </span></h2>
+            <h2>OUR<span> PARTNERS</span></h2>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii s <br>
                 n erat vel rhoncus sollicitudin. Maecenas et suscipit mauris.
             </p>
         </div>
-        <div class="for_slide_partners" id="for_slide_partners">
+        <div class="all_partners">
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-1.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-2.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-3.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-4.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-5.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-6.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-7.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-8.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-9.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+        </div>
+        <!-- <div class="for_slide_partners" id="for_slide_partners">
             <div class="single_partner">
                 <div class="for_main_img">
                     <img src="img/partner.png" class="img-fluid" alt="">
@@ -334,7 +381,7 @@
             </div>
             <div class="single_partner">
                 <div class="for_main_img">
-                    <img src="img/slid3.png" class="img-fluid" alt="">
+                    <img src="img/slid1.png" class="img-fluid" alt="">
                     <img src="img/partner_logo.png" class="img-partner_logo" alt="">
                 </div>
                 <div class="parter_text">
@@ -375,15 +422,15 @@
                 </div>
             </div>
 
-        </div>
+        </div> -->
     </div>
 </section>
 <!-- =========  OUR PArtners END  ========== -->
 <!-- =========  responsibilities Start  ========== -->
 <section class="responsibilities">
     <div class="container-fluid px-0">
-        <div class="row px-0 mx-0">
-            <div class="col-md-5 px-0">
+        <div class="video_section px-0 mx-0">
+            <div class="for_the_video px-0">
                 <div class="for_video_play_img">
                     <img src="img/resposibilty.png" class="img-fluid" alt="">
                     <div class="video_play">
@@ -391,7 +438,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-7 px-0">
+            <div class="for_the_resp px-0">
                 <div class="responsibility_text">
                     <div class="alldata">
                         <div class="for_icon">
@@ -439,6 +486,7 @@
                     <h2>Recent <span>Events</span></h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii sn erat vel rhoncus sollicitudin. Maecenas et suscipit mauris.
                         lor sit amet, consectetur adipis rhoncus sollicit</p>
+                    <a href="" class="btn">View All</a>
                 </div>
             </div>
             <div class="for_recent_slider" id="for_recent_slider">
@@ -452,7 +500,7 @@
                         <h6>Vegetables Easy Natural & <br>
                             <span>Organic Recipes</span>
                         </h6>
-                        <a href="">Read More <img src="img/right.png" class="pl-3" alt=""></a>
+                        <a href="">Read More <img src="img/arrow16.png" class="pl-3" alt=""></a>
                     </div>
                 </div>
                 <div class="single_actiity">
@@ -465,7 +513,7 @@
                         <h6>Vegetables Easy Natural & <br>
                             <span>Organic Recipes</span>
                         </h6>
-                        <a href="">Read More <img src="img/right.png" class="pl-3" alt=""></a>
+                        <a href="">Read More <img src="img/arrow16.png" class="pl-3" alt=""></a>
                     </div>
                 </div>
                 <div class="single_actiity">
@@ -478,7 +526,7 @@
                         <h6>Vegetables Easy Natural & <br>
                             <span>Organic Recipes</span>
                         </h6>
-                        <a href="">Read More <img src="img/right.png" class="pl-3" alt=""></a>
+                        <a href="">Read More <img src="img/arrow16.png" class="pl-3" alt=""></a>
                     </div>
                 </div>
                 <div class="single_actiity">
@@ -491,7 +539,7 @@
                         <h6>Vegetables Easy Natural & <br>
                             <span>Organic Recipes</span>
                         </h6>
-                        <a href="">Read More <img src="img/right.png" class="pl-3" alt=""></a>
+                        <a href="">Read More <img src="img/arrow16.png" class="pl-3" alt=""></a>
                     </div>
                 </div>
                 <div class="single_actiity">
@@ -504,7 +552,7 @@
                         <h6>Vegetables Easy Natural & <br>
                             <span>Organic Recipes</span>
                         </h6>
-                        <a href="">Read More <img src="img/right.png" class="pl-3" alt=""></a>
+                        <a href="">Read More <img src="img/arrow16.png" class="pl-3" alt=""></a>
                     </div>
                 </div>
                 <div class="single_actiity">
@@ -517,7 +565,7 @@
                         <h6>Vegetables Easy Natural & <br>
                             <span>Organic Recipes</span>
                         </h6>
-                        <a href="">Read More <img src="img/right.png" class="pl-3" alt=""></a>
+                        <a href="">Read More <img src="img/arrow16.png" class="pl-3" alt=""></a>
                     </div>
                 </div>
                 <div class="single_actiity">
@@ -530,7 +578,7 @@
                         <h6>Vegetables Easy Natural & <br>
                             <span>Organic Recipes</span>
                         </h6>
-                        <a href="">Read More <img src="img/right.png" class="pl-3" alt=""></a>
+                        <a href="">Read More <img src="img/arrow16.png" class="pl-3" alt=""></a>
                     </div>
                 </div>
             </div>

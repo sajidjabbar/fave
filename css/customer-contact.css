@@ -1,0 +1,26 @@
+.top_text.form_text h4 {
+    margin-top: 6px;
+    margin-bottom: 15px;
+}
+.complete_form .top_text.form_text .icon_img img {
+    max-width: 27px;
+}
+.complete_form .top_text.form_text p {
+    font-style: italic;
+}
+.form_start {
+    margin-top: 10px;
+}
+.form_start .form-row input,
+.form_start .form-row textarea {
+    padding-top: 2px;
+}
+.form_start .form-row textarea {
+    height: 82px;
+    resize: none;
+    padding-top: 5px;
+}
+h4,
+h4 span {
+    font-size: 27px;
+}

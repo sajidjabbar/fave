@@ -49,6 +49,24 @@ section.marketing_compaign .test_start .white_porints .inline_points {
 section.our_partners {
     padding: 46px 0PX;
 }
+section.top_pics_section {
+    padding-top: 53px;
+}
+section.top_pics_section .first_part h4 {
+    margin-top: 13px;
+    margin-bottom: 19px;
+}
+
+h4, h4 span {
+    font-size: 29px;
+    text-transform: uppercase;
+}
+section.our_partners h4, section.our_partners h4 span {
+    font-size: 26px;
+}
+.for_partners_logos h4 {
+    font-size: 23px !important;
+}
 @media (max-width: 991px) {
     .responsibility_text {
         padding-left: 36px;

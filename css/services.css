@@ -1,5 +1,9 @@
 
 /* ---===== TSCHNOLOGY  START HERE ======---- */
+h4, h4 span{
+    text-transform: uppercase;
+    font-size: 28px;
+}
 section.benefite_section {
     padding-top: 77px;
 }
@@ -24,9 +28,9 @@ section.product_image_start {
     margin-top: 15px;
 }
 .benefite_text .top_text p.main_paragraph {
-    font-size: 14px;
+    font-size: 12px;
     color: #000000;
-    margin-top: 34px;
+    margin-top: 22px;
     margin-bottom: 29px;
 }
 section.marketing_section {

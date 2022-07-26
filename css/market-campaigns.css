@@ -1,0 +1,84 @@
+section.market_text {
+    padding-top: 63px;
+}
+h2, h2 span {
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-top: 7px;
+    margin-bottom: 12px;
+}
+.taj_icon img {
+    max-width: 31px;
+}
+section.market_text .Top_text.text-center p {
+    color: #000;
+}
+h6, h6 span {
+    font-size: 16px;
+    font-family: "Exo2-Bold";
+}
+/* ====== Market Campaign START ======= */
+.campagin_start {
+    width: 85%;
+} 
+.campagin_start .fixed_activities {
+    width: 38%;
+    padding-right: 6%;
+} 
+.campagin_start .fixed_activities h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+} 
+section.market_camiagn {
+    padding-top: 8px;
+    padding-bottom: 130px;
+}
+div.campagin_start .single_actiity .for_the_img p {
+    position: absolute;
+    left: 16px;
+    bottom: 0px;
+    background: #000000;
+    color: #FFFFFF;
+    padding: 7px 15px;
+    margin-bottom: 0px;
+} 
+div.campagin_start .single_actiity .for_the_img {
+    position: relative;
+} 
+div.campagin_start .single_actiity .activity_details p {
+    color: #47A942;
+    margin-bottom: 0px;
+    font-size: 10px;
+} 
+div.campagin_start .single_actiity .activity_details {
+    padding: 21px 7px 20px 18px;
+    box-shadow: 0px 4px 5px #e7cfcf;
+} 
+div.campagin_start .single_actiity .activity_details h6 {
+    margin-top: 12px;
+    text-transform: uppercase;
+    line-height: 27px;
+    color: #000;
+} 
+div.campagin_start .single_actiity .activity_details a.for_opactiy {
+    margin-top: 15px;
+    display: block;
+    font-size: 11px;
+    color: #555555;
+    opacity: 0.5;
+    font-family: "Poppins-Medium";
+} 
+div.campagin_start .single_actiity .activity_details a img {
+    display: unset;
+    max-width: 28px;
+}
+.single_actiity:hover {
+    position: relative;
+    transition: 0.6s all;
+    transform: scale(1.1);
+    z-index: 99999999999;
+}
+.single_actiity:hover .activity_details a img{
+    transform: translateX(15px);
+    transition: 0.6s ease;
+}

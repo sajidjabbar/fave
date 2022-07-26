@@ -94,10 +94,6 @@
     </div>
 </section>
 <!-- Details Text End Here -->
-<!-- MAP SECTION START -->
-<section class="map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14479.851924522703!2d67.0699298!3d24.8651139!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcd3ef6374b410208!2sInovio%20Tech!5e0!3m2!1sen!2s!4v1658234352918!5m2!1sen!2s" width="100%" height="260" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</section>
-<!-- =======  FOOTER START HERE  ======= -->
+
 <?PHP include 'inc/footer.php' ?>
 <!-- =======  FOOTER  END HERE  ======= -->

@@ -1,0 +1,34 @@
+section.health_Beauty_details {
+    padding: 50px 0px 78px;
+}
+
+section.health_Beauty_details .details_start.mx-5 .description span {
+    color: #47A942;
+    font-size: 16px;
+    font-family: 'Poppins-Regular';
+}
+
+section.health_Beauty_details .details_start.mx-5 .description {
+    padding-top: 38px;
+}
+
+section.health_Beauty_details .details_start.mx-5 .description h3 {
+    color: #000;
+    font-size: 34px;
+    margin-top: 3px;
+}
+section.health_Beauty_details .details_start.mx-5 .description h3 span{
+    font-family: "Exo2-Bold";
+    font-size: 34px;
+}
+section.health_Beauty_details .details_start.mx-5 .description .text {
+    padding-top: 20px;
+}
+
+section.health_Beauty_details .details_start.mx-5 .description .text p {
+    color: #000000;
+    font-size: 12px;
+}
+section.health_Beauty_details .details_start.mx-5 .description .text p:not(:first-child) {
+    margin-top: 50px;
+}
