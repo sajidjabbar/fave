@@ -64,6 +64,7 @@ h5 span,
 h6 span{
     font-family: "Exo2-Bold";
     color: #585858;
+    text-transform: uppercase;
 } 
 h1 span,
 h2 span,
@@ -576,7 +577,10 @@ li.normal-nav-items.search a img {
 /*  ==== Expereince STart Here ==== */
 section.experience {
     padding: 98px 68px 0px 129px;
-} 
+}
+.text_box_experience.mt-3.p-1 h4, .text_box_experience.mt-3.p-1 h4 span {
+    font-size: 30px;
+}
 section.experience .text_start .text_box_experience.mt-3.pt-1 h4 {
     text-transform: uppercase;
     font-size: 31px;
