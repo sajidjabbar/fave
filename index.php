@@ -10,7 +10,7 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii scipit maurin erat vel <br>
                     rhoncus sollicitudin. Maecenas et suscipit mauris. Ut olestie magna qvestibulum molestie</p>
                 <div class="start_now">
-                    <a href="" class="btn">Get Started Now</a>
+                    <a href="our-product.php" class="btn">Learn More</a>
                     <a href="" class="play"><img src="img/play.png" alt=""></a>
                 </div>
             </div>
@@ -108,7 +108,7 @@
                     <div class="col-md-6 pl-0">
                         <div class="content text-center ">
                             <figure>
-                                <img src="img/care1.png" alt="">
+                                <img src="img/carE1.png" alt="">
                             </figure>
                             <p class="mt-2">Providing quality end product for<br>our customer’s customer</p>
                         </div>
@@ -131,10 +131,10 @@
 <section class="featured_start">
     <div class="container">
         <div class="top_text text-center">
-            <div class="small_icon">
+            <div class="small_icon pb-1">
                 <img src="img/taj.png" alt="">
             </div>
-            <div class="content mt-3">
+            <div class="content mt-2">
                 <h4>Our Featured <span>Products</span></h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii scipit maurin erat vel rhoncus
                     sollicitudin . Maecenas et <br> suscipit mauris. Ut olestie magna qvestibulum molestie magna quis
@@ -207,7 +207,7 @@
             <div class="for_search">
                 <input type="text" class="normal_input" placeholder="Search Any Prodcuts">
                 <button class="btn rounded-0 search-btn ml-2 first_btn">Search</button>
-                <button class="btn rounded-0 search-btn ml-2">View All </button>
+                <button class="btn rounded-0 search-btn ml-2" onclick="location.href='recipes.php'">View All </button>
             </div>
         </div>
         <div class="col-md-10 mx-auto">
@@ -483,7 +483,7 @@
                     <img src="img/taj.png" alt="">
                 </div>
                 <div class="text_start">
-                    <h2>Recent <span>Events</span></h2>
+                    <h2>our marketing <span>campaigns</span></h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii sn erat vel rhoncus sollicitudin. Maecenas et suscipit mauris.
                         lor sit amet, consectetur adipis rhoncus sollicit</p>
                     <a href="" class="btn">View All</a>

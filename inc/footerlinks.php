@@ -20,6 +20,12 @@
         $(window).on('load', function() {
             $("#preloader").fadeOut(1000);
         });
+        // $(".dropdown").mouseover(function(){
+        //     $(".dropdown").addClass("show");
+        // });
+        // $('.dropdown').hover(function() {
+        //     $('.dropdown-toggle', this).trigger('click');
+        // });
     })
     // Mobile Nav
     $('document').ready(function() {

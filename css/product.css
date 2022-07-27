@@ -52,8 +52,14 @@ section.sub_section .sub_banner_text p {
     margin-right: unset !important;
 }
 .product_start {
-    width: 77%;
+    width: 79%;
     padding-bottom: 37px;
+}
+.best_recipe_text.text-center p {
+    color: #000000;
+    opacity: 0.5;
+    margin: 21px 0px;
+    font-size: 11px;
 }
 section.product_section .top_section.text-center .icon_img {
     margin-top: 35px;
@@ -71,7 +77,11 @@ section.product_section .top_section.text-center h4 {
     margin: 0px auto;
     margin-bottom: -12px;
     padding: 36px 0px;
-    box-shadow: -1px -3px 11px #e7cfcf;
+    box-shadow: 0px 1px 2px #e7cfcf;
+}
+.best_recipe_text.text-center h6 {
+    color: #585858;
+    margin-bottom: 16px;
 }
 .best_recipe_text.text-center.active {
     background: #47A942;

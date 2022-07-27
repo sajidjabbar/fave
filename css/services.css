@@ -28,13 +28,15 @@ section.product_image_start {
     margin-top: 15px;
 }
 .benefite_text .top_text p.main_paragraph {
-    font-size: 12px;
+    font-size: 13px;
     color: #000000;
     margin-top: 22px;
     margin-bottom: 29px;
 }
 section.marketing_section {
-    padding-top: 78px;
+    padding-top: 62px;
+    background-color: #FBFAF7;
+    margin-top: 13px;
 }
 .marketing_top_text.text-center h4 {
     margin-top: 11px;

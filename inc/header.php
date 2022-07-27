@@ -29,11 +29,11 @@
     <div class="all-nav">
         <div class="navbar-items mr-auto">
             <ul class="all-normal-navs">
-                <li class="normal-nav-items"><a href="index.php">HOME</a></li>
+                <li class="normal-nav-items"><a href="index.php" class="active">HOME</a></li>
                 <li class="normal-nav-items"><a href="about.php">ABOUT US</a></li>
                 <li class="normal-nav-items">
                     <div class="dropdown ">
-                        <a href="#" class="" role="button" id="dropdownMenuLink" data-toggle="dropdown"
+                        <a href="#" class="" role="button" id="dropdownMenuLink" data-hover="dropdown" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">WHY US</a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                             <a class="dropdown-item" href="services.php">Our Services</a>

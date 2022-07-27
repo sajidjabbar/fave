@@ -23,7 +23,7 @@
         </div>
         <div class="product_start mx-auto">
             <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-2">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-1">
                     <a href="product-details.php">
                         <div class="single-reicepe">
                             <div class="main_img">
@@ -44,7 +44,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-2">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-1">
                     <a href="product-details.php">
                         <div class="single-reicepe">
                             <div class="main_img">
@@ -65,7 +65,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-2">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-1">
                     <a href="product-details.php">
 
                         <div class="single-reicepe">
@@ -87,7 +87,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-2">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-1">
                     <a href="product-details.php">
 
                         <div class="single-reicepe">
@@ -109,7 +109,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-2">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-1">
                     <a href="product-details.php">
                         <div class="single-reicepe">
                             <div class="main_img">
@@ -130,7 +130,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-2">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-1">
                     <a href="product-details.php">
                         <div class="single-reicepe">
                             <div class="main_img">
@@ -151,7 +151,7 @@
                         </div>
                 </div>
                 </a>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-2">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-1">
                     <a href="product-details.php">
 
                         <div class="single-reicepe">
@@ -173,7 +173,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-2">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-1">
                     <a href="product-details.php">
 
                         <div class="single-reicepe">
@@ -195,7 +195,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-2">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 px-1">
                     <a href="product-details.php">
 
                         <div class="single-reicepe">

@@ -154,7 +154,16 @@ section.sub_section {
     font-size: 51px;
     text-transform: uppercase;
 }
-
+li.normal-nav-items a.active::after {
+    content: "";
+    display: block;
+    position: absolute;
+    background: #47A942;
+    width: 21px;
+    height: 2px;
+    margin-left: 4px;
+    margin-top: -2px;
+}
 .text_box_banner .start_now .btn {
     padding: 9px 29px;
 }
@@ -181,7 +190,7 @@ li.normal-nav-items .dropdown.show  .dropdown-menu.show a {
     color: #000;
     padding: 2px 8px;
 }
-li.normal-nav-items .dropdown.show  .dropdown-menu.show a {
+li.normal-nav-items .dropdown  .dropdown-menu a {
     color: #000;
     padding: 2px 8px;
     font-size: 11px;
@@ -214,7 +223,20 @@ li.normal-nav-items .dropdown.show  .dropdown-menu.show a {
     height: 60px;
     -webkit-animation: animate-preloader 1s linear infinite;
     animation: animate-preloader 1s linear infinite;
-} 
+}
+.dropdown:hover .dropdown-menu,.dropdown-menu:hover, .a#dropdownMenuLink:hover .dropdown {
+    display: block;
+    margin-top: 0;
+    transition: 3s ease-in-out;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    will-change: transform;
+    transform: translate3d(0px, 24px, 0px) ;
+    min-width: 119px;
+    padding: 13px 10px 13px 10px;
+    border-radius: 0px;
+ }
 @-webkit-keyframes animate-preloader {
     0% {
         transform: rotate(0deg);
@@ -442,13 +464,13 @@ li.normal-nav-items.search a img {
     display: flex;
     align-items: center;
     width: 22%;
-    padding: 11px 0px 10px 45px;
+    padding: 12px 0px 10px 45px;
     gap: 13px;
     margin-left: auto;
     background-color: #47A942;
     position: relative;
     /* top: 0px; */
-} 
+}
 .call_us::before {
     content: "";
     display: block;
@@ -743,19 +765,24 @@ section.customer_care {
     padding: 54px 68px 46px 129px;
     background: #FBFAF7;
     /* position: relative; */
-    margin-top: -84px;
+    margin-top: -91px;
     /* top: -91px; */
 }
 section.customer_care .care_start h5 {
-    margin-top: 44px !important;
+    margin-top: 13px !important;
     line-height: 34px;
-} 
+    text-transform: uppercase;
+    font-size: 25px;
+}
+section.customer_care .care_start h5 span{
+    font-size: 25px;
+}
 section.customer_care .care_start p {
     line-height: 23px;
 } 
 section.customer_care .care_start a.btn {
-    margin-top: 66px;
-} 
+    margin-top: 17px;
+}
 section.customer_care .content.text-center p {
     font-size: 14px;
     font-family: "Poppins-Medium";
@@ -850,6 +877,7 @@ button.btn.rounded-0.search-btn {
     top: 1px;
     padding-left: 39px;
     padding-right: 39px;
+    cursor: pointer;
 }
 input.normal_input {
     border-radius: 0px;
@@ -917,7 +945,8 @@ div#for_reciepe_slider {
 .best_recipe_text.text-center h6 {
     color: #000000;
     margin-bottom: 16px;
-} 
+    text-transform: uppercase;
+}
 .best_recipe_text.text-center p {
     color: #000000;
     opacity: 0.5;
@@ -1014,7 +1043,7 @@ section.responsibilities {
     background-image: url(../img/re_back.png);
     padding-top: 66px;
     background-repeat: no-repeat;
-    padding-bottom: 52px;
+    padding-bottom: 54px;
 } 
 .responsibility_text .icons_text {
     display: flex;
@@ -1032,7 +1061,7 @@ section.responsibilities {
 } 
 .responsibility_text h2 {
     color: #FFFFFF;
-    margin-top: 1px;
+    margin-top: 4px;
     margin-bottom: 15px;
     font-size: 38px;
 } 
@@ -1084,8 +1113,8 @@ div#for_recent_slider .single_actiity .activity_details p {
 } 
 div#for_recent_slider .single_actiity .activity_details {
     padding: 17px 7px 16px 18px;
-    box-shadow: 0px 4px 5px #e7cfcf;
-} 
+    box-shadow: 0px 1px 3px #e7cfcf;
+}
 div#for_recent_slider .single_actiity .activity_details h6 {
     margin-top: 15px;
     line-height: 27px;
@@ -1128,9 +1157,10 @@ section.get_in_touch {
     padding: 56px 0px 81px 0px;
 } 
 section.get_in_touch .toucs_start .top_text h2 {
-    margin-top: 24px;
+    margin-top: 8px;
     margin-bottom: 5px;
-} 
+    font-size: 40px;
+}
 section.get_in_touch .toucs_start .top_text p {
     font-style: italic;
     color: #242424;
@@ -1160,22 +1190,24 @@ section.get_in_touch .toucs_start .top_text p {
     padding-left: 25px;
     padding-right: 25px;
     border-radius: 0px;
-} 
+}
 .form_start button.btn {
-    padding: 12px 39px;
+    padding: 11px 42px;
     border-radius: 0px;
     margin-top: 23px;
     font-family: 'Poppins-Regular';
-    font-size: 12px;
-} 
+    font-size: 13px;
+}
 .single_contact_info {
     display: flex;
     gap: 38px;
     margin-top: 18px;
-} 
+}
 .single_contact_info h6 {
     color: #000000;
-} 
+    font-family: 'Exo2-Bold';
+    font-size: 18px;
+}
 .single_contact_info p {
     color: #555555;
     font-style: italic;
@@ -1185,7 +1217,13 @@ section.get_in_touch .toucs_start .top_text p {
 footer.footer .footer-about {
     padding: 95px 0px 92px 15%;
     background: #47A942;
-} 
+}
+.footer_content h6 {
+    color: #000000;
+    font-family: 'Exo2-Bold';
+    font-size: 18px;
+    text-transform: uppercase;
+}
 footer.footer .footer-about ul.social-icons {
     display: flex;
     gap: 12px;
@@ -1380,11 +1418,11 @@ ul.all_links .for_input button {
 } 
 
 .video_section .for_the_video {
-    width: 46%;
+    width: 46.5%;
 }
 
 .video_section .for_the_resp.px-0 {
-    width: 54%;
+    width: 53.5%;
 }
 @media (max-width: 1200px) {
     .video_section.px-0.mx-0 {

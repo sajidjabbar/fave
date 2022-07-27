@@ -212,24 +212,77 @@
 <!-- === MARKETING START HERE === -->
 <!-- === our partners === -->
 <section class="our_partners">
-    <div class="container">
+    <div class="container-fluid">
         <div class="top_text text-center">
             <div class="icon_img">
                 <img src="img/taj.png" alt="">
             </div>
             <h4 class="mt-2">OUR <span>Partners</span></h4>
         </div>
-        <div class="row">
-            <div class="col-md-10 mx-auto">
-                <div class="for_partners_logos ml-5">
-                    <h4>Logo</h4>
-                    <h4>Logo</h4>
-                    <h4>Logo</h4>
-                    <h4>Logo</h4>
-                    <h4>Logo</h4>
-                </div>
+       <div class="all_partners">
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-1.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-2.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-3.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-4.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-5.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-6.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-7.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-8.png" class="img-fluid" alt="">
+                </figure>
+            </div>
+            <div class="single_partner_logo">
+                <figure>
+                    <img src="img/our-partners-9.png" class="img-fluid" alt="">
+                </figure>
             </div>
         </div>
     </div>
 </section>
+<!-- =========  OUR PArtners Start  ========== -->
+<!-- <section class="our_partner">
+    <div class="container_fluid px-0">
+        <div class="top_text text-center">
+            <div class="for_icon">
+                <img src="img/taj.png" alt="">
+            </div>
+            <h2>OUR<span> PARTNERS</span></h2>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii s <br>
+                n erat vel rhoncus sollicitudin. Maecenas et suscipit mauris.
+            </p>
+        </div>
+        
+    </div>
+</section> -->
+<!-- =========  OUR PArtners END  ========== -->
 <?php include 'inc/footer.php' ?>

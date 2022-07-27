@@ -59,6 +59,7 @@ section.product_image_start {
     background: #FBFAF7;
     padding-left: 11%;
     padding-right: 19%;
+    box-shadow: 0px 0px 11px #e7cfcf;
 }
 
 @media (max-width: 1200px){

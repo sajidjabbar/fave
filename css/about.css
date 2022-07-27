@@ -67,6 +67,19 @@ section.our_partners h4, section.our_partners h4 span {
 .for_partners_logos h4 {
     font-size: 23px !important;
 }
+.all_partners {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 2.5%;
+    padding-bottom: 39px;
+    align-items: end;
+}
+section.our_partners .container-fluid .top_text.text-center {
+    margin-bottom: -16px;
+}
 @media (max-width: 991px) {
     .responsibility_text {
         padding-left: 36px;
