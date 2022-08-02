@@ -196,6 +196,7 @@ li.normal-nav-items .dropdown  .dropdown-menu a {
     color: #000;
     padding: 2px 8px;
     font-size: 11px;
+    text-transform: uppercase;
 }
 .dropdown-menu{
     min-width: unset;
