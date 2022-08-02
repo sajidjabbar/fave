@@ -77,11 +77,12 @@ section.product_section .top_section.text-center h4 {
     margin: 0px auto;
     margin-bottom: -12px;
     padding: 36px 0px;
-    box-shadow: 0px 1px 2px #e7cfcf;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
 }
 .best_recipe_text.text-center h6 {
     color: #585858;
     margin-bottom: 16px;
+    font-family: 'Exo2-Bold';
 }
 .best_recipe_text.text-center.active {
     background: #47A942;
@@ -103,6 +104,13 @@ section.product_section .top_section.text-center h4 {
     top: 2px;
     left: 6px;
 }
+.best_recipe_text.text-center a {
+    color: #47A942;
+    font-family: "Poppins-Medium";
+    font-size: 13px;
+    color: #585858;
+}
+
 @media (max-width: 1200px){
     .product_start{
         width: 88%;
