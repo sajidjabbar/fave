@@ -6,11 +6,12 @@
         <div class="carousel-item active">
             <img class="d-block w-100" src="img/banner.png" alt="First slide">
             <div class="text_box_banner">
-                <h1>Agriculture &<br><span>Produce Industry</span></h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii scipit maurin erat vel <br>
-                    rhoncus sollicitudin. Maecenas et suscipit mauris. Ut olestie magna qvestibulum molestie</p>
+                <h1>Growers, Distributors, & <br><span>Packers of Natural Produce</span></h1>
+                <p>Whether you’re a health enthusiast, retailer, or wholesaler, FAVE ensures prompt <br> delivery of
+                    fresh
+                    and premium goods to all. </p>
                 <div class="start_now">
-                    <a href="our-product.php" class="btn">Learn More</a>
+                    <a href="our-product.php" class="btn">Get started now</a>
                     <a href="" class="play"><img src="img/play.png" alt=""></a>
                 </div>
             </div>
@@ -44,23 +45,32 @@
                         <img src="img/taj.png" alt="">
                     </div>
                     <div class="text_box_experience mt-3 p-1">
-                        <h4>
+                        <h4>Leading Agriculture & Organic <br> <span> Products Distributor</span></h4>
+                        <!-- <h4>
                             We Have 25 Years of Experience <br>
                             in Agriculture & <span>Organic Product</span>
-                        </h4>
+                        </h4> -->
                         <p class="mt-3">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii scipit mauri <br>
-                            n erat vel rhoncus sollicitudin. Maecenas et suscipit mauris. Ut olestie magna qvestibulum
-                            molestie magna quis
+                            By supplying farm-fresh fruits and vegetables to retailers all over North America, we have
+                            managed to build a solid reputation for producing fresh and sustainable goods. Growing a
+                            myriad of herbs, salads, fruits, and vegetables, on our own farms, we aim to become a
+                            one-stop solution for all varieties of fresh produce, with useful suggestions, if needed,
+                            for free!
                         </p>
                         <div class="points_with_image">
                             <div class="points">
-                                <p><img src="img/check.png" class="pr-2" alt=""> Lorem ipsum dolor sit doler </p>
-                                <p><img src="img/check.png" class="pr-2" alt=""> Lorem ipsum dolor sit doler </p>
-                                <p><img src="img/check.png" class="pr-2" alt=""> Lorem ipsum dolor sit doler </p>
-                                <p><img src="img/check.png" class="pr-2" alt=""> Lorem ipsum dolor sit doler </p>
-                                <p><img src="img/check.png" class="pr-2" alt=""> Lorem ipsum dolor sit doler </p>
-                                <p><img src="img/check.png" class="pr-2" alt=""> Lorem ipsum dolor sit doler </p>
+                                <p><img src="img/check.png" class="pr-2" alt="">Proper protocols and methods are
+                                    followed to ensure the quality of products.</p>
+                                <p><img src="img/check.png" class="pr-2" alt="">All the produce is taken care of with
+                                    utmost responsibility to fulfill consumers' expectations</p>
+                                <p><img src="img/check.png" class="pr-2" alt="">A timely supply of fresh produce is
+                                    guaranteed.</p>
+                                <p><img src="img/check.png" class="pr-2" alt="">New practices and strategies are
+                                    explored to extend the shelf life of the goods.</p>
+                                <p><img src="img/check.png" class="pr-2" alt="">GFSI certification indicates our strict
+                                    adherence to the highest food safety standards.</p>
+                                <p><img src="img/check.png" class="pr-2" alt="">A wide range of sustainable, exotic, and
+                                    tropical fruits and vegetables are delivered.</p>
                             </div>
                             <div class="points_image">
                                 <img src="img/points_image.png" alt="">
@@ -95,11 +105,19 @@
                     <div class="small_icon">
                         <img src="img/taj.png" alt="">
                     </div>
-                    <h5 class="mt-5">we care about our <span>customer’s customer</span><br> We help our customers care
-                        for <span>their customers by</span></h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii scipit mauri n erat vel
+                    <h5>We are committed to guaranteeing <span>customer</span> satisfaction on all fronts.<br>
+                        Everyone here at FAVE puts their heart and soul into work so that our customers can relish
+                        <br><span>the healthiest fruits and vegetables</span>.
+                    </h5>
+                    <p>
+                        In addition to that, we further help our associated retailers deliver for their consumers at
+                        competitive prices with guaranteed satisfaction.<br>
+                        Grown on our very own farms in North America, we ship our produce just after hours of being
+                        harvested, translating into an extended shelf life and flavorful taste.
+                    </p>
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii scipit mauri n erat vel
                         rhoncus sollicitudin. <br> Maecenas et suscipit mauris. Ut olestie magna qvestibulum molestie
-                        magna quis </p>
+                        magna quis </p> -->
                     <a href="" class="btn">Become Our Partner</a>
                 </div>
             </div>
@@ -110,7 +128,8 @@
                             <figure>
                                 <img src="img/carE1.png" alt="">
                             </figure>
-                            <p class="mt-2">Providing quality end product for<br>our customer’s customer</p>
+                            <p class="mt-2">Implementing cutting-edge technologies and effective methodologies to keep a
+                                consistent supply of high-quality products at unbeatable prices.</p>
                         </div>
                     </div>
                     <div class="col-md-6 pr-0">
@@ -118,7 +137,7 @@
                             <figure>
                                 <img src="img/care2.png" alt="">
                             </figure>
-                            <p class="mt-2">Providing quality end product for<br>our customer’s customer</p>
+                            <p class="mt-2">Providing reliable, safe, and ethical products to our customers.</p>
                         </div>
                     </div>
                 </div>
@@ -136,8 +155,19 @@
             </div>
             <div class="content mt-2">
                 <h4>Our Featured <span>Products</span></h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii scipit maurin erat vel rhoncus
+                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii scipit maurin erat vel rhoncus
                     sollicitudin . Maecenas et <br> suscipit mauris. Ut olestie magna qvestibulum molestie magna quis
+                </p> -->
+                <p>
+                    At FAVE, we have invested a substantial amount of money in order to further enhance our current
+                    processes and their surroundings. <br>
+                    With time, we keep updating ourselves with the latest agricultural and food safety systems as well
+                    as health safety standards to make <br> sure our ethically sourced goods fulfill all the
+                    requirements set
+                    out by the upper bodies. <br>
+                    FAVE’s entire team of produce growers is constantly scrutinized by relevant teams and audited to the
+                    highest standards to ensure they<br>only provide the best products in the industry.
+
                 </p>
             </div>
         </div>
@@ -176,7 +206,7 @@
                         <img src="img/call1.png" alt="">
                     </figure>
                     <div class="fot_the_text">
-                        <p>Get Quick Support</p>
+                        <p>Order Our Products Online</p>
                         <span><a href="tel:(123) 456 7898">(123) 456 7898</a></span>
                     </div>
                 </div>
@@ -202,8 +232,7 @@
                 <img src="img/taj.png" alt="">
             </div>
             <h2>Our Best <span> Recipes </span></h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii s <br>
-                n erat vel rhoncus sollicitudin. Maecenas et suscipit mauris.</p>
+            <p>Make delicious blends and savory juices with our fresh and exclusive organic products.</p>
             <div class="for_search">
                 <input type="text" class="normal_input" placeholder="Search Any Prodcuts">
                 <button class="btn rounded-0 search-btn ml-2 first_btn">Search</button>
@@ -211,68 +240,72 @@
             </div>
         </div>
         <div class="col-md-10 mx-auto">
-        <div class="for_slider d-flex" id="for_reciepe_slider">
-            <div class="single-recipe">
-                <div class="main_img">
-                    <img src="img/best1.png" class="img-fluid" alt="">
+            <div class="for_slider d-flex" id="for_reciepe_slider">
+                <div class="single-recipe">
+                    <div class="main_img">
+                        <img src="img/best1.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="best_recipe_text text-center">
+                        <h6>Garlic Stew Dish</h6>
+                        <!-- <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p> -->
+                        <p>Garlic has countless benefits, with the most significant one being its beneficial active
+                            compounds. In ancient times, Egyptians tended to use garlic as a food flavoring and
+                            medicinal product due to its high nutritional value. Now even, you can reap the benefits of
+                            Ginger by making a garlic stew dish with our easy-to-cook recipe.</p>
+                        <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
+                    </div>
                 </div>
-                <div class="best_recipe_text text-center">
-                    <h6>Garlic Stew Dish</h6>
-                    <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
-                    <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
+                <div class="single-recipe">
+                    <div class="main_img">
+                        <img src="img/best2.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="best_recipe_text text-center active">
+                        <h6>Garlic Tomato Soup</h6>
+                        <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                        <a href="">Read More <img src="img/arr.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="single-recipe">
+                    <div class="main_img">
+                        <img src="img/best3.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="best_recipe_text text-center">
+                        <h6>Garlic Stew Dish</h6>
+                        <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                        <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="single-recipe">
+                    <div class="main_img">
+                        <img src="img/best2.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="best_recipe_text text-center">
+                        <h6>Garlic Tomato Soup</h6>
+                        <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                        <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="single-recipe">
+                    <div class="main_img">
+                        <img src="img/best1.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="best_recipe_text text-center">
+                        <h6>Garlic Stew Dish</h6>
+                        <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                        <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="single-recipe">
+                    <div class="main_img">
+                        <img src="img/best1.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="best_recipe_text text-center">
+                        <h6>Garlic Stew Dish</h6>
+                        <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                        <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
+                    </div>
                 </div>
             </div>
-            <div class="single-recipe">
-                <div class="main_img">
-                    <img src="img/best2.png" class="img-fluid" alt="">
-                </div>
-                <div class="best_recipe_text text-center active">
-                    <h6>Garlic Tomato Soup</h6>
-                    <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
-                    <a href="">Read More <img src="img/arr.png" alt=""></a>
-                </div>
-            </div>
-            <div class="single-recipe">
-                <div class="main_img">
-                    <img src="img/best3.png" class="img-fluid" alt="">
-                </div>
-                <div class="best_recipe_text text-center">
-                    <h6>Garlic Stew Dish</h6>
-                    <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
-                    <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
-                </div>
-            </div>
-            <div class="single-recipe">
-                <div class="main_img">
-                    <img src="img/best2.png" class="img-fluid" alt="">
-                </div>
-                <div class="best_recipe_text text-center">
-                    <h6>Garlic Tomato Soup</h6>
-                    <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
-                    <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
-                </div>
-            </div>
-            <div class="single-recipe">
-                <div class="main_img">
-                    <img src="img/best1.png" class="img-fluid" alt="">
-                </div>
-                <div class="best_recipe_text text-center">
-                    <h6>Garlic Stew Dish</h6>
-                    <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
-                    <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
-                </div>
-            </div>
-            <div class="single-recipe">
-                <div class="main_img">
-                    <img src="img/best1.png" class="img-fluid" alt="">
-                </div>
-                <div class="best_recipe_text text-center">
-                    <h6>Garlic Stew Dish</h6>
-                    <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
-                    <a href="">Read More <img src="img/right-arrow.png" alt=""></a>
-                </div>
-            </div>
-        </div>
         </div>
     </div>
 </section>
@@ -285,8 +318,8 @@
             </div>
             <h2>OUR<span> PARTNERS</span></h2>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii s <br>
-                n erat vel rhoncus sollicitudin. Maecenas et suscipit mauris.
+                FAVE has a global network of offices, factories, and farms to ensure that <br>
+                all our clients have access to the entire range of products 24/7.
             </p>
         </div>
         <div class="all_partners">
@@ -445,27 +478,29 @@
                             <img src="img/taj1.png" alt="">
                         </div>
                         <div class="text_start">
-                            <h2>CORPORATE SOCIAL <br>
-                                RESPONSIBILITY</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii scipit maurin erat vel rhoncus <br> sollicitudin . Maecenas et suscipit mauris. Ut olestie magna qvestibulum
+                            <!-- <h2>CORPORATE SOCIAL <br>
+                                RESPONSIBILITY</h2> -->
+                            <h2>Healthy Life <br> Community</h2>
+                            <p>Providing our community with access to farm-fresh and ethically sourced fruits and <br>
+                                vegetables is one of our top priorities.
                             </p>
                         </div>
                         <div class="icons_text">
                             <div class="single_icon">
                                 <img src="img/icon1.png" alt="">
-                                <span>Lorem<br>Ipsum</span>
+                                <span>Healthy <br> living</span>
                             </div>
                             <div class="single_icon">
                                 <img src="img/icon2.png" alt="">
-                                <span>Lorem<br>Ipsum</span>
+                                <span>Fitness</span>
                             </div>
                             <div class="single_icon">
                                 <img src="img/icon3.png" alt="">
-                                <span>Lorem<br>Ipsum</span>
+                                <span>Mental<br>wellbeing</span>
                             </div>
                             <div class="single_icon">
                                 <img src="img/icon4.png" alt="">
-                                <span>Lorem<br>Ipsum</span>
+                                <span>Beauty</span>
                             </div>
                         </div>
                     </div>
@@ -484,8 +519,9 @@
                 </div>
                 <div class="text_start">
                     <h2>our marketing <span>campaigns</span></h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii sn erat vel rhoncus sollicitudin. Maecenas et suscipit mauris.
-                        lor sit amet, consectetur adipis rhoncus sollicit</p>
+                    <p>Don’t forget to check out our recent events conducted for the promotion of a healthy and safe
+                        community. We are committed to playing our role in optimizing the current health and food safety
+                        standards.</p>
                     <a href="" class="btn">View All</a>
                 </div>
             </div>
@@ -596,8 +632,9 @@
                         <div class="for_icon">
                             <img src="img/taj.png" alt="">
                         </div>
-                        <h2>Get In Touch <span>With Us</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+                        <h2>Please contact us for <br><span>queries or concern</span></h2>
+                        <!-- <h2>Get In Touch <span>With Us</h2> -->
+                        <p>Get in touch with us and convey your message</p>
                     </div>
                 </div>
             </div>

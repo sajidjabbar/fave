@@ -24,8 +24,7 @@
             </div>
             <h2>our marketing <span>campaigns</span></h2>
             <P>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut<br>
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
+            We assist our supermarket chain customers every step of the way to craft creating marketing campaigns to provide all the <br> necessary information to the end-users.  We want our customers to stay updated on our fantastic brand and offers.
             </P>
         </div>
     </div>

@@ -33,7 +33,7 @@ section.product_top_text .text_start.text-center p {
     top: 17%;
     background: #47A942;
     height: 204px;
-    left: -77px;
+    left: -81px;
     z-index: -1;
 }
 section.developing_text.farmers p, section.developing_text.farmers h4 {
@@ -157,4 +157,21 @@ section.developing_text.farmers p, section.developing_text.farmers h4 {
 }
 footer.footer {
     margin-top: 31px;
+}
+
+.benefite_text .top_text p.main_paragraph span {
+    color: RGB(196, 87,17);
+    font-size: 12px;
+    font-family: "Poppins-Regular";
+}
+
+section.developing_text .text_wraper p span {
+    color: RGB(196, 87,17);
+    font-size: 12px;
+    font-family: "Poppins-Regular";
+}
+section.product_top_text .text_start.text-center p span {
+    color: RGB(196, 87,17);
+    font-size: 12px;
+    font-family: "Poppins-Regular";
 }

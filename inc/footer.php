@@ -6,7 +6,7 @@
                     <figure>
                         <img src="img/footer-logo.png" class="img/fluid" alt="">
                     </figure>
-                    <p>Lorem Ipsum is simply dummy text of <br> the printing and typesetting industry.</p>
+                    <p>Helping people live happier, healthier lives by delivering <br> farm-fresh fruits, herbs, spices, and veggies. </p>
                     <div class="social_icon">
                         <ul class="social-icons">
                             <li><a href=""><img src="img/social1.png" alt=""></a></li>
@@ -45,8 +45,7 @@
                             <ul class="all_links">
                                 <li>
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollii sn erat vel
-                                        rhoncus sollicitudin. Maecenas et suscipit mauris.
+                                    Subscribe to our newsletter for current information about Fave and healthy living. 
                                     </p>
                                 </li>
                                 <div class="for_input mt-3">

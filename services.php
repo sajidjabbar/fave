@@ -45,14 +45,16 @@
                             </div>
                             <h4>Innovation <span>Technology</span></h4>
                             <p class="main_paragraph">
-                                We have the most advanced fruit and vegetable factory of Asia locate in China, supplying
-                                premium quality ginger and ga rlic to North America. We also have warehouses locate in
-                                both east and west coast of North America supporting the large s upermarket chains
-                                business, where we do storage, transload, pack, quality check, etc. We are a fully
-                                integrated company w ith the ability to grow, pack, ship, market and deliver directly to
-                                the retailer. We care for our products with high quality fer tilizers to provide you the
-                                freshest, highly nutritional Ginger and Garlic delivered direct to your stores.
-                                innovation
+                                Fave offers exceptional quality, and better-value products made with perfection using
+                                cutting-edge and innovative technology. We pride ourselves on having the highly advanced
+                                fruit and vegetable factory of Asia in China, supplying premium quality ginger and
+                                garlic all the way to North America. With our warehouses located on North America's east
+                                and west coasts, we work with countless massive supermarket chain businesses. As a fully
+                                integrated company and leading <span>fresh ginger exporters,</span> we not only do the storage,
+                                packaging, and thorough quality check. We also have our farms where we grow, pack, shop,
+                                market and deliver to the intended retailer. Our products are grown with the highest
+                                quality fertilizers utilizing only the best fertilizers, so our customers can access
+                                fresh and nutrition-packed items.
                             </p>
                         </div>
                     </div>
@@ -71,7 +73,8 @@
                     <img src="img/taj.png" alt="">
                 </div>
                 <h4><span>Marketing</span></h4>
-                <p>We help our supermarket chain customers prepare various types of marketing campaign, educating end-users.</p>
+                <p>We believe in letting our customers learn about the rigorous processes and hard work we do to deliver
+                    <br> quality products to our customers.</p>
             </div>
             <div class="marketing_img">
                 <img src="img/marketing.png" class="img-fluid" alt="">

@@ -32,14 +32,19 @@ section.marketing_compaign p {
     color: #FFF;
 }
 section.marketing_compaign .test_start p.main_para {
-    margin-top: 32px;
+    margin-top: 10px;
+    font-size: 11px;
 }
 section.marketing_compaign .test_start .white_porints .inline_points {
     display: flex;
     justify-content: space-between;
 }
 .white_porints .points p{
-    font-size: 12px;
+    font-size: 11px;
+    width: 48%;
+    gap: 11px;
+    line-height: 18px;
+    margin-bottom: 6px;
 }
 .for_partners_logos {
     display: flex;
@@ -131,4 +136,27 @@ section.our_partners .container-fluid .top_text.text-center {
     .responsibility_text .single_icon{
         margin-top: 45px;
     }
+}
+.point_text .points p b{
+    font-weight: 400;
+}
+.point_text .points p b span {
+    color: RGB(196, 87,17);
+    font-size: 14px;
+    font-family: "Poppins-Regular";
+}
+section.marketing_compaign .test_start h4 {
+    margin-top: 6px;
+    font-size: 26px;
+}
+.marketing_compaign .for_img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+section.marketing_compaign .test_start p.main_para span {
+    color: RGB(196, 87,17);
+    font-size: 12px;
+    font-family: "Poppins-Regular";
 }

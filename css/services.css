@@ -84,3 +84,8 @@ h4.marketing_top_text.text-center p {
         margin-top: 26px;
     }
 }
+.benefite_text .top_text p.main_paragraph span {
+    color: RGB(196, 87,17);
+    font-size: 12px;
+    font-family: "Poppins-Regular";
+}

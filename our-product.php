@@ -27,9 +27,12 @@
                 <img src="img/taj.png" alt="">
             </div>
             <h2>Our <span>Products</span></h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut<br>
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex</p>
+            <p>
+                Looking for a <span>fresh vegetable producer in Canada?</span> FAVE products offer uncompromised quality and value to
+                its customers. We are one <br>
+                of the leading <span>wholesale fruits and vegetable suppliers,</span> including Garlic and Ginger and a wide range
+                of herbs, spices, and <br> other vegetables.
+            </p>
         </div>
     </div>
 </section>
@@ -42,15 +45,12 @@
                 <div class="col-lg-5 col-md-12">
                     <div class="text_wraper ">
                         <h4>Developing</h4>
-                        <p>we are always offering better value products through perfection in products and innovation.
-                            We
-                            customize and suggest pr oducts and their packaging that meets end- users' requirement and
-                            help
-                            our supermarket chain customers increase sales and save cost. Value Added- Ability to
-                            provide
-                            consistent superior quality with extended shelf life will minimize shrinkage and increases
-                            sales
-                            at store level </p>
+                        <p>As <span>wholesale fruits and vegetable suppliers</span>, we go the extra mile to develop
+                            products having
+                            an extended shelf life. By implementing innovative technology and best practices, we have
+                            successfully attained product perfection, surpassing our end-users expectations. Not limited
+                            to only customization of product packages, but we take every measure that can result in
+                            increased sales and save the cost of our supermarket chain customers.</p>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-12">
@@ -76,10 +76,10 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="text_wraper pl-4">
                         <h4>Farmng</h4>
-                        <p>We have our own farm in Canada and contracted farms located worldwide. We also cooperated
-                            with Nor fund, a Norwegia n government state-owned investment fund and with Neo fresh, one
-                            of the biggest papaya and lychee suppliers in South A frica to invest together in Mozambique
-                            to establish the biggest ginger farm and warehouse in the country
+                        <p>With our own farm in Canada and multiple others located worldwide, we have partnered with
+                            Norfund, a Norwegian government state-owned investment fund, and Neofresh, one of the
+                            biggest papaya and lychee suppliers in South Africa. The aim is to invest in Mozambique to
+                            develop one of the grandest ginger farms and warehouses in the country.
                         </p>
                     </div>
                 </div>
@@ -96,9 +96,10 @@
                 <div class="col-lg-5 col-md-12">
                     <div class="text_wraper ">
                         <h4>Sourcing</h4>
-                        <p>We have professional procurement and QA team sourcing product from different countries,
-                            include but not limited to the U.S.A, Canada, South American countries, South Africa, China,
-                            Thailand, Vietnam, Turkey, etc. </p>
+                        <p>We believe in delivering only quality products to our end customers. As a result, we have a
+                            competitive procurement and QA team sourcing product from various countries, including
+                            Canada, the U.S.A, China, South Africa, Vietnam, Thailand, Turkey, South American countries,
+                            and more.</p>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-12">
@@ -127,24 +128,22 @@
                         <div class="top_text">
                             <h4>Supplying</h4>
                             <p class="main_paragraph">
-                                We Also handle the logistics to send products to our super market chain
-                                customer in large scale on time .
+                                As one of the well-renowned <span>wholesale garlic and ginger suppliers,</span> we oversee and manage
+                                the logistics to safely deliver products to our supermarket chain customers on a timely
+                                basis. Our products remain fresh and ready to use due to the following reasons:
                             </p>
                             <div class="points">
                                 <p>
-                                    rarely underweight--we control the weight of products when production, to make sure
-                                    our products won't be underweight whensend out to the market
+                                    Ensuring our products are not underweight before sending them to the market.
                                 </p>
                                 <p>
-                                    We control the humidity when shipping the products We have innovate the new crates
-                                    increase air flow, allows product to breath and dry out for a reduced rate of
-                                    mold/decay
+                                    Maintaining humidity levels during product shipping
                                 </p>
                                 <p>
-                                    Redesigned crates and Improvements to our shipping techniques allows for extended
-                                    shelf life and higher quality upon arrival.
+                                Keeping the products in an environment that protects them from mold or decay
                                 </p>
                             </div>
+                            <p>We never compromise on delivering high-quality products through the usage of advanced technology and processes.</p>
                         </div>
                     </div>
                 </div>

@@ -149,10 +149,10 @@ section.sub_section {
     justify-content: center;
     align-items: center;
 }
-.text_box_banner h1 {font-size: 51px;text-transform: uppercase;}
+.text_box_banner h1 {font-size: 47px;text-transform: uppercase;}
 
 .text_box_banner h1 span {
-    font-size: 51px;
+    font-size: 47px;
     text-transform: uppercase;
 }
 li.normal-nav-items a.active::after {
@@ -651,7 +651,7 @@ section.experience .images .below_img img {
     top: -14px;
 } */ 
 section.experience .text_start {
-    padding-left: 55px;
+    padding-left: 29px;
 } 
 .points_with_image {
     display: flex;
@@ -665,7 +665,15 @@ section.experience .text_start {
 } 
 .points_with_image .points_image {
     text-align: right;
-} 
+}
+
+img.pr-2 {
+    height: 16px;
+    width: 22px;
+}
+.points_with_image .points {
+    max-width: 50%;
+}
 .for_founder {
     display: flex;
     justify-content: space-between;
@@ -907,7 +915,7 @@ button.btn.rounded-0.search-btn.ml-2.first_btn {
 }
 .single-recipe {
     margin-right: 30px !important;
-    max-height: 361px;
+    max-height: 484px;
 }
 section.our_best_price button.slick-prev.slick-arrow {
     height: 30px;

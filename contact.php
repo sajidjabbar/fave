@@ -27,8 +27,7 @@
                                 <img src="img/taj2.png" alt="">
                             </div>
                             <h4>CONTACT US</h4>
-                            <p>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia <br>
-                                deserunt mollit anim id est laborum. Sed ut perspiciatis</p>
+                            <p>Got any questions about our brand and product? Connect with us today.</p>
                         </div>
                         <div class="contact_on">
                             <div class="single_contact_item">
@@ -68,7 +67,7 @@
                                 <img src="img/taj.png" alt="">
                             </div>
                             <h4>Get In Touch <span>With Us</span></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+                            <p>Please fill out the form below so we can get back to you.</p>
                         </div>
                         <div class="form_start">
                             <form action="">

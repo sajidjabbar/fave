@@ -33,7 +33,7 @@
                                 <img src="img/taj.png" alt="">
                             </div>
                             <h4>Our Customer <span>Contact</span></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+                            <p>Fill out the form, and we will get back to you at the earliest.</p>
                         </div>
                         <div class="form_start">
                             <form action="">

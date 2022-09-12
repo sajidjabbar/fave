@@ -31,7 +31,7 @@
                             </div>
                             <div class="best_recipe_text text-center active">
                                 <h6>Lychee</h6>
-                                <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                                <p>An amazing tropical fruit with <br> a unique taste and flavor</p>
                                 <a href="" class="read_more">Read More
                                     <svg xmlns="http://www.w3.org/2000/svg" width="17.593" height="11.955"
                                         viewBox="0 0 17.593 11.955">
@@ -52,7 +52,7 @@
                             </div>
                             <div class="best_recipe_text text-center">
                                 <h6>Garlic</h6>
-                                <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                                <p>A classic ingredient for countless <br> delectable cuisines</p>
                                 <a href="" class="read_more">Read More
                                     <svg xmlns="http://www.w3.org/2000/svg" width="17.593" height="11.955"
                                         viewBox="0 0 17.593 11.955">
@@ -74,7 +74,7 @@
                             </div>
                             <div class="best_recipe_text text-center">
                                 <h6>Ginger</h6>
-                                <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                                <p>Taste a distinct flavor and <br> pleasant warmth</p>
                                 <a href="" class="read_more">Read More
                                     <svg xmlns="http://www.w3.org/2000/svg" width="17.593" height="11.955"
                                         viewBox="0 0 17.593 11.955">
@@ -96,7 +96,7 @@
                             </div>
                             <div class="best_recipe_text text-center">
                                 <h6>Dragon fruit</h6>
-                                <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                                <p>Vibrant tropical fruit with a <br> unique and nutty flavor</p>
                                 <a href="" class="read_more">Read More
                                     <svg xmlns="http://www.w3.org/2000/svg" width="17.593" height="11.955"
                                         viewBox="0 0 17.593 11.955">
@@ -117,7 +117,7 @@
                             </div>
                             <div class="best_recipe_text text-center">
                                 <h6>Jalapeno</h6>
-                                <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                                <p>A global food rockstar to tempt <br> your tastebuds</p>
                                 <a href="" class="read_more">Read More
                                     <svg xmlns="http://www.w3.org/2000/svg" width="17.593" height="11.955"
                                         viewBox="0 0 17.593 11.955">
@@ -138,7 +138,8 @@
                             </div>
                             <div class="best_recipe_text text-center">
                                 <h6>Jumbo Carrot</h6>
-                                <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                                <p>Taste the massive farm-fresh <br> flavorful produce</p>
+                                <!-- <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p> -->
                                 <a href="" class="read_more">Read More
                                     <svg xmlns="http://www.w3.org/2000/svg" width="17.593" height="11.955"
                                         viewBox="0 0 17.593 11.955">
@@ -160,7 +161,7 @@
                             </div>
                             <div class="best_recipe_text text-center">
                                 <h6>Chayote Squash</h6>
-                                <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                                <p>A mild flavor that adds versatility <br> to the menu</p>
                                 <a href="" class="read_more">Read More
                                     <svg xmlns="http://www.w3.org/2000/svg" width="17.593" height="11.955"
                                         viewBox="0 0 17.593 11.955">
@@ -182,7 +183,7 @@
                             </div>
                             <div class="best_recipe_text text-center">
                                 <h6>Scotch Bonnet</h6>
-                                <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                                <p>One of the hottest pepper for <br> the brave ones</p>
                                 <a href="" class="read_more">Read More
                                     <svg xmlns="http://www.w3.org/2000/svg" width="17.593" height="11.955"
                                         viewBox="0 0 17.593 11.955">
@@ -204,7 +205,7 @@
                             </div>
                             <div class="best_recipe_text text-center">
                                 <h6> Long Eggplant</h6>
-                                <p>Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit. </p>
+                                <p>A delicious treat with a mild <br> taste</p>
                                 <a href="" class="read_more">Read More
                                     <svg xmlns="http://www.w3.org/2000/svg" width="17.593" height="11.955"
                                         viewBox="0 0 17.593 11.955">
