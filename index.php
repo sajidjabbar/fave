@@ -30,11 +30,11 @@
                             <img src="img/exp.png" class="img-fluid" alt="">
                         </div>
                         <div class="main_image">
-                            <img src="img/index1.png" class="img-fluid" alt="">
+                            <img src="img/shutterstock1.webp" class="img-fluid" alt="">
                         </div>
                     </div>
                     <div class="below_img">
-                        <img src="img/index2.png" class="img-fluid" alt="">
+                        <img src="img/shutterstock4.webp" class="img-fluid" alt="">
                     </div>
 
                 </div>
@@ -175,7 +175,7 @@
     <div class="container-fluid">
         <div class="for_product_scroll">
             <div class="single_img">
-                <img src="img/product2.png" class="featured_img img-fluid" alt="">
+                <img src="img/shutterstock6.webp" class="featured_img img-fluid" alt="">
             </div>
             <div class="single_img">
                 <img src="img/product1.png" class="featured_img img-fluid" alt="">
@@ -187,7 +187,7 @@
                 <img src="img/product4.png" class="featured_img img-fluid" alt="">
             </div>
             <div class="single_img">
-                <img src="img/product2.png" class="featured_img img-fluid" alt="">
+                <img src="img/shutterstock6.webp" class="featured_img img-fluid" alt="">
             </div>
             <div class="single_img">
                 <img src="img/product3.png" class="featured_img img-fluid" alt="">

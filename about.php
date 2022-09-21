@@ -21,8 +21,8 @@
         <div class="first_part">
             <div class="row">
                 <div class="col-md-6">
-                    <div class="fo_img pr-5">
-                        <img src="img/beauty.png" class="img-fluid" alt="">
+                    <div class="fo_img">
+                        <img src="img/shutterstock3.webp" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-md-6 pl-2">
@@ -144,7 +144,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="fo_img pl-5">
-                        <img src="img/beauty.png" class="img-fluid" alt="">
+                        <img src="img/shutterstock2.webp" class="img-fluid" alt="">
                     </div>
                 </div>
             </div>
@@ -188,7 +188,8 @@
                         Located in Middletown, New Jersey, FAVE has emerged as one of the leading brands in the
                         agriculture and produce industry thanks to its fresh, organic, and top-of-the-line, ethically
                         sourced fruits and vegetables.<br>
-                        Ever since its inception, as one of the leading <span>wholesale garlic suppliers</span>, FAVE has been at the
+                        Ever since its inception, as one of the leading <span>wholesale garlic suppliers</span>, FAVE
+                        has been at the
                         forefront of contributing value to locally grown veggies and fruits.<br>
                         They are among the leading suppliers of herbs, spices, and a wide range of vegetables serving
                         regional and national customers in food service and retail markets in the USA as well as
@@ -197,15 +198,18 @@
                         organic food.
                     </p>
                     <div class="white_porints">
-                        <p>Whether it’s growing, packing, or distributing, they take great pride in everything they do.</p>
+                        <p>Whether it’s growing, packing, or distributing, they take great pride in everything they do.
+                        </p>
                         <div class="points">
                             <div class="inline_points">
                                 <p>We strive to provide optimal goods</p>
                                 <p>We endorse and promote environmental sustainability on all fronts</p>
                             </div>
                             <div class="inline_points">
-                                <p>Our employees tirelessly work day-in-day-out to ensure customers' standards are met</p>
-                                <p>We implement and execute cutting-edge technology to ensure a non-stop supply of quality products </p>
+                                <p>Our employees tirelessly work day-in-day-out to ensure customers' standards are met
+                                </p>
+                                <p>We implement and execute cutting-edge technology to ensure a non-stop supply of
+                                    quality products </p>
                             </div>
                         </div>
                     </div>

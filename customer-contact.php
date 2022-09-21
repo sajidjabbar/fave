@@ -23,7 +23,7 @@
             <div class="row">
                 <div class="col-lg-6 col-md-12 px-0">
                     <div class="img_left_side">
-                        <img src="img/customer-contact.png" class="img-fluid" alt="">
+                        <img src="img/shutterstock5.webp" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 px-0">
