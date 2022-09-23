@@ -51,6 +51,14 @@
 	src: url(../fonts/popins/Poppins-Thin.ttf);
 }
 /* ====== universal styling Start ====== */
+.growers{
+	color: white !important;
+}
+.growers-img {
+    width: 100%!important;
+    height: 565px;
+    object-fit: cover;
+}
 h1,
 h1 span,
 h2,

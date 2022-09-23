@@ -4,10 +4,10 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="img/banner.png" alt="First slide">
+            <img class="d-block w-100 growers-img" src="img/shutterstock4.webp" alt="First slide">
             <div class="text_box_banner">
-                <h1>Growers, Distributors, & <br><span>Packers of Natural Produce</span></h1>
-                <p>Whether you’re a health enthusiast, retailer, or wholesaler, FAVE ensures prompt <br> delivery of
+                <h1 class="growers">Growers, Distributors, & <br><span>Packers of Natural Produce</span></h1>
+                <p class="growers">Whether you’re a health enthusiast, retailer, or wholesaler, FAVE ensures prompt <br> delivery of
                     fresh
                     and premium goods to all. </p>
                 <div class="start_now">
